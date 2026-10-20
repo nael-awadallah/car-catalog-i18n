@@ -1,25 +1,19 @@
 {
   "original": {
-    "description": "Initial seed of makes, models and Arabic translations compiled by hand for this project. No third-party dataset was imported.",
-    "created": "2026-10-20",
-    "arabicReviewed": false
+    "description": "Initial seed of 36 makes, 347 models and all Arabic translations, compiled by hand for this project (CC0).",
+    "created": "2026-10-20"
   },
-  "imports": [],
-  "candidatesEvaluated": [
+  "arabic": {
+    "status": "consistency-reviewed",
+    "note": "Checked for consistent hamza forms, duplicate names within a make, redundant aliases and stray Latin characters. Not yet reviewed by an independent native speaker; corrections are welcome. Less common models fall back to the canonical name."
+  },
+  "imports": [
     {
+      "name": "VehiclesDB",
       "url": "https://github.com/vehiclesdb/vehiclesdb",
-      "license": "CC-BY-4.0",
-      "decision": "Documented official sources; usable with visible attribution. Imported data would be CC-BY-4.0, not CC0. Not imported yet."
-    },
-    {
-      "url": "https://github.com/serhatkildaci/global-car-models",
-      "license": "MIT (repository)",
-      "decision": "No stated data provenance; redistribution rights of the underlying data cannot be verified. Not imported."
-    },
-    {
-      "url": "https://github.com/Savage3D/car-makes-models-data",
-      "license": "MIT (repository)",
-      "decision": "No stated data provenance; 2019 snapshot. Not imported."
+      "version": "2026.10.4",
+      "retrieved": "2026-10-20",
+      "license": "CC-BY-4.0"
     }
   ]
 }

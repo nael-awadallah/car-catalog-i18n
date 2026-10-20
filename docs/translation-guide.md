@@ -23,9 +23,10 @@ Keys are canonical IDs. Translating a subset is fine; the rest falls back to the
 
 ## Review
 
-A fluent reviewer must approve translations before they are published. Keep
-unreviewed machine suggestions out of `locales/`. The initial Arabic file is
-**pending such a review**; `docs/sources.json` tracks this (`arabicReviewed`).
+Translations should be approved by a fluent reviewer before they are published. Keep
+unreviewed machine suggestions out of `locales/`. The Arabic file has had a consistency
+review (hamza forms, duplicates, redundant aliases) but not yet an independent native-speaker
+review; `docs/sources.json` tracks the status under `arabic`.
 
 ## Adding a language
 

@@ -53,9 +53,7 @@
     },
     "infiniti": {
       "name": "إنفينيتي",
-      "aliases": [
-        "انفينيتي"
-      ]
+      "aliases": []
     },
     "genesis": {
       "name": "جينيسيس",
@@ -77,9 +75,7 @@
     },
     "gmc": {
       "name": "جي إم سي",
-      "aliases": [
-        "جي ام سي"
-      ]
+      "aliases": []
     },
     "dodge": {
       "name": "دودج",
@@ -104,21 +100,18 @@
     "mercedes-benz": {
       "name": "مرسيدس بنز",
       "aliases": [
-        "مرسيدس",
-        "مرسيدس-بنز"
+        "مرسيدس"
       ]
     },
     "bmw": {
       "name": "بي إم دبليو",
       "aliases": [
-        "بي ام دبليو",
         "بيامدبليو"
       ]
     },
     "audi": {
       "name": "أودي",
       "aliases": [
-        "اودي",
         "اودى"
       ]
     },
@@ -170,9 +163,7 @@
     },
     "mg": {
       "name": "إم جي",
-      "aliases": [
-        "ام جي"
-      ]
+      "aliases": []
     },
     "geely": {
       "name": "جيلي",
@@ -190,9 +181,231 @@
     },
     "byd": {
       "name": "بي واي دي",
+      "aliases": []
+    },
+    "abarth": {
+      "name": "أبارث",
+      "aliases": []
+    },
+    "acura": {
+      "name": "أكورا",
+      "aliases": []
+    },
+    "aion": {
+      "name": "أيون",
+      "aliases": []
+    },
+    "alfa-romeo": {
+      "name": "ألفا روميو",
+      "aliases": []
+    },
+    "alpina": {
+      "name": "ألبينا",
+      "aliases": []
+    },
+    "aston-martin": {
+      "name": "أستون مارتن",
+      "aliases": []
+    },
+    "baic": {
+      "name": "بايك",
+      "aliases": []
+    },
+    "bentley": {
+      "name": "بنتلي",
+      "aliases": []
+    },
+    "buick": {
+      "name": "بيوك",
+      "aliases": []
+    },
+    "citroen": {
+      "name": "ستروين",
       "aliases": [
-        "بي وآي دي"
+        "سيتروين"
       ]
+    },
+    "cupra": {
+      "name": "كوبرا",
+      "aliases": []
+    },
+    "dacia": {
+      "name": "داسيا",
+      "aliases": []
+    },
+    "daihatsu": {
+      "name": "دايهاتسو",
+      "aliases": []
+    },
+    "deepal": {
+      "name": "ديبال",
+      "aliases": []
+    },
+    "denza": {
+      "name": "دينزا",
+      "aliases": []
+    },
+    "dfsk": {
+      "name": "دي إف إس كيه",
+      "aliases": []
+    },
+    "dongfeng": {
+      "name": "دونج فنج",
+      "aliases": [
+        "دونغ فنغ"
+      ]
+    },
+    "ds": {
+      "name": "دي إس",
+      "aliases": []
+    },
+    "ebro": {
+      "name": "إيبرو",
+      "aliases": []
+    },
+    "ferrari": {
+      "name": "فيراري",
+      "aliases": []
+    },
+    "fiat": {
+      "name": "فيات",
+      "aliases": []
+    },
+    "gac": {
+      "name": "جي إيه سي",
+      "aliases": [
+        "جاك"
+      ]
+    },
+    "great-wall": {
+      "name": "جريت وول",
+      "aliases": [
+        "جريت وال",
+        "سور الصين العظيم"
+      ]
+    },
+    "isuzu": {
+      "name": "إيسوزو",
+      "aliases": []
+    },
+    "jaecoo": {
+      "name": "جايكو",
+      "aliases": []
+    },
+    "jetour": {
+      "name": "جيتور",
+      "aliases": []
+    },
+    "kgm": {
+      "name": "كي جي إم",
+      "aliases": []
+    },
+    "lada": {
+      "name": "لادا",
+      "aliases": []
+    },
+    "lamborghini": {
+      "name": "لامبورغيني",
+      "aliases": [
+        "لامبورجيني"
+      ]
+    },
+    "lancia": {
+      "name": "لانشيا",
+      "aliases": []
+    },
+    "leapmotor": {
+      "name": "ليب موتور",
+      "aliases": []
+    },
+    "lincoln": {
+      "name": "لينكولن",
+      "aliases": []
+    },
+    "lotus": {
+      "name": "لوتس",
+      "aliases": []
+    },
+    "lucid": {
+      "name": "لوسيد",
+      "aliases": []
+    },
+    "lynk-co": {
+      "name": "لينك آند كو",
+      "aliases": []
+    },
+    "maserati": {
+      "name": "مازيراتي",
+      "aliases": []
+    },
+    "maxus": {
+      "name": "ماكسوس",
+      "aliases": []
+    },
+    "mini": {
+      "name": "ميني",
+      "aliases": []
+    },
+    "neta": {
+      "name": "نيتا",
+      "aliases": []
+    },
+    "nio": {
+      "name": "نيو",
+      "aliases": []
+    },
+    "omoda": {
+      "name": "أومودا",
+      "aliases": []
+    },
+    "opel": {
+      "name": "أوبل",
+      "aliases": []
+    },
+    "ora": {
+      "name": "أورا",
+      "aliases": []
+    },
+    "perodua": {
+      "name": "بيرودوا",
+      "aliases": []
+    },
+    "polestar": {
+      "name": "بولستار",
+      "aliases": []
+    },
+    "proton": {
+      "name": "بروتون",
+      "aliases": []
+    },
+    "seat": {
+      "name": "سيات",
+      "aliases": []
+    },
+    "smart": {
+      "name": "سمارت",
+      "aliases": []
+    },
+    "ssangyong": {
+      "name": "سانج يونج",
+      "aliases": [
+        "سانغ يونغ",
+        "سانج يونغ"
+      ]
+    },
+    "vauxhall": {
+      "name": "فوكسهول",
+      "aliases": []
+    },
+    "xpeng": {
+      "name": "إكس بينج",
+      "aliases": [
+        "اكسبينج"
+      ]
+    },
+    "zeekr": {
+      "name": "زيكر",
+      "aliases": []
     }
   },
   "models": {
@@ -244,9 +457,7 @@
     },
     "toyota/avalon": {
       "name": "أفالون",
-      "aliases": [
-        "افالون"
-      ]
+      "aliases": []
     },
     "toyota/rush": {
       "name": "راش",
@@ -260,9 +471,7 @@
     },
     "toyota/innova": {
       "name": "إنوفا",
-      "aliases": [
-        "انوفا"
-      ]
+      "aliases": []
     },
     "toyota/highlander": {
       "name": "هايلاندر",
@@ -290,9 +499,7 @@
     },
     "nissan/altima": {
       "name": "ألتيما",
-      "aliases": [
-        "التيما"
-      ]
+      "aliases": []
     },
     "nissan/sunny": {
       "name": "صني",
@@ -312,9 +519,7 @@
     },
     "nissan/x-trail": {
       "name": "إكس تريل",
-      "aliases": [
-        "اكس تريل"
-      ]
+      "aliases": []
     },
     "nissan/kicks": {
       "name": "كيكس",
@@ -344,9 +549,7 @@
     },
     "nissan/armada": {
       "name": "أرمادا",
-      "aliases": [
-        "ارمادا"
-      ]
+      "aliases": []
     },
     "nissan/micra": {
       "name": "ميكرا",
@@ -354,15 +557,11 @@
     },
     "nissan/gt-r": {
       "name": "جي تي آر",
-      "aliases": [
-        "جي تي ار"
-      ]
+      "aliases": []
     },
     "honda/accord": {
       "name": "أكورد",
-      "aliases": [
-        "اكورد"
-      ]
+      "aliases": []
     },
     "honda/civic": {
       "name": "سيفيك",
@@ -370,15 +569,11 @@
     },
     "honda/cr-v": {
       "name": "سي آر في",
-      "aliases": [
-        "سي ار في"
-      ]
+      "aliases": []
     },
     "honda/hr-v": {
       "name": "إتش آر في",
-      "aliases": [
-        "اتش ار في"
-      ]
+      "aliases": []
     },
     "honda/city": {
       "name": "سيتي",
@@ -390,9 +585,7 @@
     },
     "honda/odyssey": {
       "name": "أوديسي",
-      "aliases": [
-        "اوديسي"
-      ]
+      "aliases": []
     },
     "honda/jazz": {
       "name": "جاز",
@@ -408,9 +601,7 @@
     },
     "hyundai/elantra": {
       "name": "إلنترا",
-      "aliases": [
-        "النترا"
-      ]
+      "aliases": []
     },
     "hyundai/sonata": {
       "name": "سوناتا",
@@ -430,9 +621,7 @@
     },
     "hyundai/accent": {
       "name": "أكسنت",
-      "aliases": [
-        "اكسنت"
-      ]
+      "aliases": []
     },
     "hyundai/creta": {
       "name": "كريتا",
@@ -448,9 +637,7 @@
     },
     "hyundai/azera": {
       "name": "أزيرا",
-      "aliases": [
-        "ازيرا"
-      ]
+      "aliases": []
     },
     "hyundai/venue": {
       "name": "فينيو",
@@ -458,21 +645,15 @@
     },
     "hyundai/i10": {
       "name": "آي 10",
-      "aliases": [
-        "اي 10"
-      ]
+      "aliases": []
     },
     "hyundai/i20": {
       "name": "آي 20",
-      "aliases": [
-        "اي 20"
-      ]
+      "aliases": []
     },
     "hyundai/i30": {
       "name": "آي 30",
-      "aliases": [
-        "اي 30"
-      ]
+      "aliases": []
     },
     "hyundai/staria": {
       "name": "ستاريا",
@@ -480,9 +661,7 @@
     },
     "hyundai/ioniq-5": {
       "name": "أيونيك 5",
-      "aliases": [
-        "ايونيك 5"
-      ]
+      "aliases": []
     },
     "kia/sportage": {
       "name": "سبورتاج",
@@ -498,9 +677,7 @@
     },
     "kia/optima": {
       "name": "أوبتيما",
-      "aliases": [
-        "اوبتيما"
-      ]
+      "aliases": []
     },
     "kia/picanto": {
       "name": "بيكانتو",
@@ -540,9 +717,7 @@
     },
     "kia/ev6": {
       "name": "إي في 6",
-      "aliases": [
-        "اي في 6"
-      ]
+      "aliases": []
     },
     "kia/k8": {
       "name": "كي 8",
@@ -562,33 +737,23 @@
     },
     "mazda/cx-3": {
       "name": "سي إكس 3",
-      "aliases": [
-        "سي اكس 3"
-      ]
+      "aliases": []
     },
     "mazda/cx-30": {
       "name": "سي إكس 30",
-      "aliases": [
-        "سي اكس 30"
-      ]
+      "aliases": []
     },
     "mazda/cx-5": {
       "name": "سي إكس 5",
-      "aliases": [
-        "سي اكس 5"
-      ]
+      "aliases": []
     },
     "mazda/cx-9": {
       "name": "سي إكس 9",
-      "aliases": [
-        "سي اكس 9"
-      ]
+      "aliases": []
     },
     "mazda/mx-5": {
       "name": "إم إكس 5",
-      "aliases": [
-        "ام اكس 5"
-      ]
+      "aliases": []
     },
     "mazda/bt-50": {
       "name": "بي تي 50",
@@ -604,39 +769,27 @@
     },
     "mitsubishi/outlander": {
       "name": "أوتلاندر",
-      "aliases": [
-        "اوتلاندر"
-      ]
+      "aliases": []
     },
     "mitsubishi/asx": {
       "name": "إيه إس إكس",
-      "aliases": [
-        "ايه اس اكس"
-      ]
+      "aliases": []
     },
     "mitsubishi/l200": {
       "name": "إل 200",
-      "aliases": [
-        "ال 200"
-      ]
+      "aliases": []
     },
     "mitsubishi/attrage": {
       "name": "أتراج",
-      "aliases": [
-        "اتراج"
-      ]
+      "aliases": []
     },
     "mitsubishi/eclipse-cross": {
       "name": "إكليبس كروس",
-      "aliases": [
-        "اكليبس كروس"
-      ]
+      "aliases": []
     },
     "mitsubishi/xpander": {
       "name": "إكسباندر",
-      "aliases": [
-        "اكسباندر"
-      ]
+      "aliases": []
     },
     "mitsubishi/mirage": {
       "name": "ميراج",
@@ -656,9 +809,7 @@
     },
     "suzuki/ertiga": {
       "name": "إرتيجا",
-      "aliases": [
-        "ارتيجا"
-      ]
+      "aliases": []
     },
     "suzuki/dzire": {
       "name": "ديزاير",
@@ -678,9 +829,7 @@
     },
     "suzuki/s-presso": {
       "name": "إس بريسو",
-      "aliases": [
-        "اس بريسو"
-      ]
+      "aliases": []
     },
     "suzuki/grand-vitara": {
       "name": "جراند فيتارا",
@@ -688,9 +837,7 @@
     },
     "subaru/impreza": {
       "name": "إمبريزا",
-      "aliases": [
-        "امبريزا"
-      ]
+      "aliases": []
     },
     "subaru/forester": {
       "name": "فورستر",
@@ -698,15 +845,11 @@
     },
     "subaru/outback": {
       "name": "أوتباك",
-      "aliases": [
-        "اوتباك"
-      ]
+      "aliases": []
     },
     "subaru/xv": {
       "name": "إكس في",
-      "aliases": [
-        "اكس في"
-      ]
+      "aliases": []
     },
     "subaru/legacy": {
       "name": "ليجاسي",
@@ -716,81 +859,55 @@
     },
     "subaru/wrx": {
       "name": "دبليو آر إكس",
-      "aliases": [
-        "دبليو ار اكس"
-      ]
+      "aliases": []
     },
     "subaru/brz": {
       "name": "بي آر زد",
-      "aliases": [
-        "بي ار زد"
-      ]
+      "aliases": []
     },
     "subaru/ascent": {
       "name": "أسنت",
-      "aliases": [
-        "اسنت"
-      ]
+      "aliases": []
     },
     "lexus/es": {
       "name": "إي إس",
-      "aliases": [
-        "اي اس"
-      ]
+      "aliases": []
     },
     "lexus/is": {
       "name": "آي إس",
-      "aliases": [
-        "اي اس"
-      ]
+      "aliases": []
     },
     "lexus/ls": {
       "name": "إل إس",
-      "aliases": [
-        "ال اس"
-      ]
+      "aliases": []
     },
     "lexus/lx": {
       "name": "إل إكس",
-      "aliases": [
-        "ال اكس"
-      ]
+      "aliases": []
     },
     "lexus/gx": {
       "name": "جي إكس",
-      "aliases": [
-        "جي اكس"
-      ]
+      "aliases": []
     },
     "lexus/rx": {
       "name": "آر إكس",
-      "aliases": [
-        "ار اكس"
-      ]
+      "aliases": []
     },
     "lexus/nx": {
       "name": "إن إكس",
-      "aliases": [
-        "ان اكس"
-      ]
+      "aliases": []
     },
     "lexus/ux": {
       "name": "يو إكس",
-      "aliases": [
-        "يو اكس"
-      ]
+      "aliases": []
     },
     "lexus/lc": {
       "name": "إل سي",
-      "aliases": [
-        "ال سي"
-      ]
+      "aliases": []
     },
     "lexus/rc": {
       "name": "آر سي",
-      "aliases": [
-        "ار سي"
-      ]
+      "aliases": []
     },
     "infiniti/q50": {
       "name": "كيو 50",
@@ -802,27 +919,19 @@
     },
     "infiniti/qx50": {
       "name": "كيو إكس 50",
-      "aliases": [
-        "كيو اكس 50"
-      ]
+      "aliases": []
     },
     "infiniti/qx55": {
       "name": "كيو إكس 55",
-      "aliases": [
-        "كيو اكس 55"
-      ]
+      "aliases": []
     },
     "infiniti/qx60": {
       "name": "كيو إكس 60",
-      "aliases": [
-        "كيو اكس 60"
-      ]
+      "aliases": []
     },
     "infiniti/qx80": {
       "name": "كيو إكس 80",
-      "aliases": [
-        "كيو اكس 80"
-      ]
+      "aliases": []
     },
     "genesis/g70": {
       "name": "جي 70",
@@ -856,33 +965,23 @@
     },
     "ford/explorer": {
       "name": "إكسبلورر",
-      "aliases": [
-        "اكسبلورر"
-      ]
+      "aliases": []
     },
     "ford/expedition": {
       "name": "إكسبيديشن",
-      "aliases": [
-        "اكسبيديشن"
-      ]
+      "aliases": []
     },
     "ford/edge": {
       "name": "إيدج",
-      "aliases": [
-        "ايدج"
-      ]
+      "aliases": []
     },
     "ford/escape": {
       "name": "إسكيب",
-      "aliases": [
-        "اسكيب"
-      ]
+      "aliases": []
     },
     "ford/f-150": {
       "name": "إف 150",
-      "aliases": [
-        "اف 150"
-      ]
+      "aliases": []
     },
     "ford/ranger": {
       "name": "رينجر",
@@ -910,15 +1009,11 @@
     },
     "ford/ecosport": {
       "name": "إيكو سبورت",
-      "aliases": [
-        "ايكو سبورت"
-      ]
+      "aliases": []
     },
     "ford/everest": {
       "name": "إيفرست",
-      "aliases": [
-        "ايفرست"
-      ]
+      "aliases": []
     },
     "ford/figo": {
       "name": "فيجو",
@@ -962,9 +1057,7 @@
     },
     "chevrolet/equinox": {
       "name": "إكوينوكس",
-      "aliases": [
-        "اكوينوكس"
-      ]
+      "aliases": []
     },
     "chevrolet/spark": {
       "name": "سبارك",
@@ -984,21 +1077,15 @@
     },
     "chevrolet/aveo": {
       "name": "أفيو",
-      "aliases": [
-        "افيو"
-      ]
+      "aliases": []
     },
     "chevrolet/impala": {
       "name": "إمبالا",
-      "aliases": [
-        "امبالا"
-      ]
+      "aliases": []
     },
     "chevrolet/optra": {
       "name": "أوبترا",
-      "aliases": [
-        "اوبترا"
-      ]
+      "aliases": []
     },
     "gmc/yukon": {
       "name": "يوكن",
@@ -1016,15 +1103,11 @@
     },
     "gmc/acadia": {
       "name": "أكاديا",
-      "aliases": [
-        "اكاديا"
-      ]
+      "aliases": []
     },
     "gmc/envoy": {
       "name": "إنفوي",
-      "aliases": [
-        "انفوي"
-      ]
+      "aliases": []
     },
     "gmc/canyon": {
       "name": "كانيون",
@@ -1108,9 +1191,7 @@
     },
     "cadillac/escalade": {
       "name": "إسكاليد",
-      "aliases": [
-        "اسكاليد"
-      ]
+      "aliases": []
     },
     "cadillac/ct4": {
       "name": "سي تي 4",
@@ -1126,21 +1207,15 @@
     },
     "cadillac/xt4": {
       "name": "إكس تي 4",
-      "aliases": [
-        "اكس تي 4"
-      ]
+      "aliases": []
     },
     "cadillac/xt5": {
       "name": "إكس تي 5",
-      "aliases": [
-        "اكس تي 5"
-      ]
+      "aliases": []
     },
     "cadillac/xt6": {
       "name": "إكس تي 6",
-      "aliases": [
-        "اكس تي 6"
-      ]
+      "aliases": []
     },
     "cadillac/lyriq": {
       "name": "ليريك",
@@ -1152,15 +1227,11 @@
     },
     "tesla/model-s": {
       "name": "موديل إس",
-      "aliases": [
-        "موديل اس"
-      ]
+      "aliases": []
     },
     "tesla/model-x": {
       "name": "موديل إكس",
-      "aliases": [
-        "موديل اكس"
-      ]
+      "aliases": []
     },
     "tesla/model-y": {
       "name": "موديل واي",
@@ -1173,7 +1244,6 @@
     "mercedes-benz/a-class": {
       "name": "إيه كلاس",
       "aliases": [
-        "ايه كلاس",
         "الفئة A"
       ]
     },
@@ -1192,14 +1262,12 @@
     "mercedes-benz/e-class": {
       "name": "إي كلاس",
       "aliases": [
-        "اي كلاس",
         "الفئة E"
       ]
     },
     "mercedes-benz/s-class": {
       "name": "إس كلاس",
       "aliases": [
-        "اس كلاس",
         "الفئة S"
       ]
     },
@@ -1211,45 +1279,31 @@
     },
     "mercedes-benz/cla": {
       "name": "سي إل إيه",
-      "aliases": [
-        "سي ال ايه"
-      ]
+      "aliases": []
     },
     "mercedes-benz/cls": {
       "name": "سي إل إس",
-      "aliases": [
-        "سي ال اس"
-      ]
+      "aliases": []
     },
     "mercedes-benz/gla": {
       "name": "جي إل إيه",
-      "aliases": [
-        "جي ال ايه"
-      ]
+      "aliases": []
     },
     "mercedes-benz/glb": {
       "name": "جي إل بي",
-      "aliases": [
-        "جي ال بي"
-      ]
+      "aliases": []
     },
     "mercedes-benz/glc": {
       "name": "جي إل سي",
-      "aliases": [
-        "جي ال سي"
-      ]
+      "aliases": []
     },
     "mercedes-benz/gle": {
       "name": "جي إل إي",
-      "aliases": [
-        "جي ال اي"
-      ]
+      "aliases": []
     },
     "mercedes-benz/gls": {
       "name": "جي إل إس",
-      "aliases": [
-        "جي ال اس"
-      ]
+      "aliases": []
     },
     "mercedes-benz/v-class": {
       "name": "في كلاس",
@@ -1257,15 +1311,11 @@
     },
     "mercedes-benz/sl": {
       "name": "إس إل",
-      "aliases": [
-        "اس ال"
-      ]
+      "aliases": []
     },
     "mercedes-benz/amg-gt": {
       "name": "إيه إم جي جي تي",
-      "aliases": [
-        "ايه ام جي جي تي"
-      ]
+      "aliases": []
     },
     "bmw/1-series": {
       "name": "سيريس 1",
@@ -1311,45 +1361,31 @@
     },
     "bmw/x1": {
       "name": "إكس 1",
-      "aliases": [
-        "اكس 1"
-      ]
+      "aliases": []
     },
     "bmw/x2": {
       "name": "إكس 2",
-      "aliases": [
-        "اكس 2"
-      ]
+      "aliases": []
     },
     "bmw/x3": {
       "name": "إكس 3",
-      "aliases": [
-        "اكس 3"
-      ]
+      "aliases": []
     },
     "bmw/x4": {
       "name": "إكس 4",
-      "aliases": [
-        "اكس 4"
-      ]
+      "aliases": []
     },
     "bmw/x5": {
       "name": "إكس 5",
-      "aliases": [
-        "اكس 5"
-      ]
+      "aliases": []
     },
     "bmw/x6": {
       "name": "إكس 6",
-      "aliases": [
-        "اكس 6"
-      ]
+      "aliases": []
     },
     "bmw/x7": {
       "name": "إكس 7",
-      "aliases": [
-        "اكس 7"
-      ]
+      "aliases": []
     },
     "bmw/z4": {
       "name": "زد 4",
@@ -1357,57 +1393,39 @@
     },
     "bmw/i4": {
       "name": "آي 4",
-      "aliases": [
-        "اي 4"
-      ]
+      "aliases": []
     },
     "bmw/ix": {
       "name": "آي إكس",
-      "aliases": [
-        "اي اكس"
-      ]
+      "aliases": []
     },
     "audi/a1": {
       "name": "إيه 1",
-      "aliases": [
-        "ايه 1"
-      ]
+      "aliases": []
     },
     "audi/a3": {
       "name": "إيه 3",
-      "aliases": [
-        "ايه 3"
-      ]
+      "aliases": []
     },
     "audi/a4": {
       "name": "إيه 4",
-      "aliases": [
-        "ايه 4"
-      ]
+      "aliases": []
     },
     "audi/a5": {
       "name": "إيه 5",
-      "aliases": [
-        "ايه 5"
-      ]
+      "aliases": []
     },
     "audi/a6": {
       "name": "إيه 6",
-      "aliases": [
-        "ايه 6"
-      ]
+      "aliases": []
     },
     "audi/a7": {
       "name": "إيه 7",
-      "aliases": [
-        "ايه 7"
-      ]
+      "aliases": []
     },
     "audi/a8": {
       "name": "إيه 8",
-      "aliases": [
-        "ايه 8"
-      ]
+      "aliases": []
     },
     "audi/q2": {
       "name": "كيو 2",
@@ -1435,15 +1453,11 @@
     },
     "audi/r8": {
       "name": "آر 8",
-      "aliases": [
-        "ار 8"
-      ]
+      "aliases": []
     },
     "audi/e-tron": {
       "name": "إي ترون",
-      "aliases": [
-        "اي ترون"
-      ]
+      "aliases": []
     },
     "volkswagen/golf": {
       "name": "جولف",
@@ -1477,9 +1491,7 @@
     },
     "volkswagen/arteon": {
       "name": "أرتيون",
-      "aliases": [
-        "ارتيون"
-      ]
+      "aliases": []
     },
     "volkswagen/t-roc": {
       "name": "تي روك",
@@ -1491,9 +1503,7 @@
     },
     "volkswagen/id-4": {
       "name": "آي دي 4",
-      "aliases": [
-        "اي دي 4"
-      ]
+      "aliases": []
     },
     "volkswagen/beetle": {
       "name": "بيتل",
@@ -1517,33 +1527,23 @@
     },
     "volvo/xc40": {
       "name": "إكس سي 40",
-      "aliases": [
-        "اكس سي 40"
-      ]
+      "aliases": []
     },
     "volvo/xc60": {
       "name": "إكس سي 60",
-      "aliases": [
-        "اكس سي 60"
-      ]
+      "aliases": []
     },
     "volvo/xc90": {
       "name": "إكس سي 90",
-      "aliases": [
-        "اكس سي 90"
-      ]
+      "aliases": []
     },
     "volvo/s60": {
       "name": "إس 60",
-      "aliases": [
-        "اس 60"
-      ]
+      "aliases": []
     },
     "volvo/s90": {
       "name": "إس 90",
-      "aliases": [
-        "اس 90"
-      ]
+      "aliases": []
     },
     "volvo/v60": {
       "name": "في 60",
@@ -1574,8 +1574,7 @@
     "land-rover/range-rover-evoque": {
       "name": "رينج روفر إيفوك",
       "aliases": [
-        "ايفوك",
-        "إيفوك"
+        "ايفوك"
       ]
     },
     "land-rover/defender": {
@@ -1596,45 +1595,31 @@
     },
     "jaguar/xe": {
       "name": "إكس إي",
-      "aliases": [
-        "اكس اي"
-      ]
+      "aliases": []
     },
     "jaguar/xf": {
       "name": "إكس إف",
-      "aliases": [
-        "اكس اف"
-      ]
+      "aliases": []
     },
     "jaguar/xj": {
       "name": "إكس جي",
-      "aliases": [
-        "اكس جي"
-      ]
+      "aliases": []
     },
     "jaguar/f-pace": {
       "name": "إف بيس",
-      "aliases": [
-        "اف بيس"
-      ]
+      "aliases": []
     },
     "jaguar/e-pace": {
       "name": "إي بيس",
-      "aliases": [
-        "اي بيس"
-      ]
+      "aliases": []
     },
     "jaguar/f-type": {
       "name": "إف تايب",
-      "aliases": [
-        "اف تايب"
-      ]
+      "aliases": []
     },
     "jaguar/i-pace": {
       "name": "آي بيس",
-      "aliases": [
-        "اي بيس"
-      ]
+      "aliases": []
     },
     "peugeot/partner": {
       "name": "بارتنر",
@@ -1682,9 +1667,7 @@
     },
     "skoda/octavia": {
       "name": "أوكتافيا",
-      "aliases": [
-        "اوكتافيا"
-      ]
+      "aliases": []
     },
     "skoda/superb": {
       "name": "سوبيرب",
@@ -1716,47 +1699,35 @@
     },
     "mg/mg3": {
       "name": "إم جي 3",
-      "aliases": [
-        "ام جي 3"
-      ]
+      "aliases": []
     },
     "mg/mg5": {
       "name": "إم جي 5",
-      "aliases": [
-        "ام جي 5"
-      ]
+      "aliases": []
     },
     "mg/mg6": {
       "name": "إم جي 6",
-      "aliases": [
-        "ام جي 6"
-      ]
+      "aliases": []
     },
     "mg/zs": {
       "name": "زد إس",
       "aliases": [
-        "زد اس",
         "ام جي زد اس"
       ]
     },
     "mg/hs": {
       "name": "إتش إس",
       "aliases": [
-        "اتش اس",
         "ام جي اتش اس"
       ]
     },
     "mg/rx5": {
       "name": "آر إكس 5",
-      "aliases": [
-        "ار اكس 5"
-      ]
+      "aliases": []
     },
     "mg/rx8": {
       "name": "آر إكس 8",
-      "aliases": [
-        "ار اكس 8"
-      ]
+      "aliases": []
     },
     "mg/gt": {
       "name": "جي تي",
@@ -1764,15 +1735,11 @@
     },
     "mg/marvel-r": {
       "name": "مارفل آر",
-      "aliases": [
-        "مارفل ار"
-      ]
+      "aliases": []
     },
     "geely/emgrand": {
       "name": "إمجراند",
-      "aliases": [
-        "امجراند"
-      ]
+      "aliases": []
     },
     "geely/coolray": {
       "name": "كولراي",
@@ -1780,9 +1747,7 @@
     },
     "geely/azkarra": {
       "name": "أزكارا",
-      "aliases": [
-        "ازكارا"
-      ]
+      "aliases": []
     },
     "geely/tugella": {
       "name": "توجيلا",
@@ -1790,9 +1755,7 @@
     },
     "geely/okavango": {
       "name": "أوكافانجو",
-      "aliases": [
-        "اوكافانجو"
-      ]
+      "aliases": []
     },
     "geely/monjaro": {
       "name": "مونجارو",
@@ -1804,15 +1767,11 @@
     },
     "chery/arrizo-5": {
       "name": "أريزو 5",
-      "aliases": [
-        "اريزو 5"
-      ]
+      "aliases": []
     },
     "chery/arrizo-6": {
       "name": "أريزو 6",
-      "aliases": [
-        "اريزو 6"
-      ]
+      "aliases": []
     },
     "chery/tiggo-4": {
       "name": "تيجو 4",
@@ -1834,21 +1793,15 @@
     },
     "chery/omoda-5": {
       "name": "أومودا 5",
-      "aliases": [
-        "اومودا 5"
-      ]
+      "aliases": []
     },
     "haval/h6": {
       "name": "إتش 6",
-      "aliases": [
-        "اتش 6"
-      ]
+      "aliases": []
     },
     "haval/h9": {
       "name": "إتش 9",
-      "aliases": [
-        "اتش 9"
-      ]
+      "aliases": []
     },
     "haval/jolion": {
       "name": "جوليون",
@@ -1860,9 +1813,7 @@
     },
     "byd/atto-3": {
       "name": "أتو 3",
-      "aliases": [
-        "اتو 3"
-      ]
+      "aliases": []
     },
     "byd/han": {
       "name": "هان",
@@ -1890,15 +1841,2737 @@
     },
     "byd/f3": {
       "name": "إف 3",
-      "aliases": [
-        "اف 3"
-      ]
+      "aliases": []
     },
     "byd/sealion-6": {
       "name": "سي لاين 6",
       "aliases": [
         "سيلاين 6"
       ]
+    },
+    "peugeot/e-5008": {
+      "name": "إي 5008",
+      "aliases": []
+    },
+    "aion/v": {
+      "name": "في",
+      "aliases": []
+    },
+    "alfa-romeo/giulietta": {
+      "name": "جوليتا",
+      "aliases": []
+    },
+    "alfa-romeo/mito": {
+      "name": "ميتو",
+      "aliases": []
+    },
+    "audi/q4": {
+      "name": "كيو 4",
+      "aliases": []
+    },
+    "audi/s3": {
+      "name": "إس 3",
+      "aliases": []
+    },
+    "audi/s4": {
+      "name": "إس 4",
+      "aliases": []
+    },
+    "audi/sq5": {
+      "name": "إس كيو 5",
+      "aliases": []
+    },
+    "baic/bj30e": {
+      "name": "بي جيه 30 إي",
+      "aliases": [
+        "بي جي 30 اي"
+      ]
+    },
+    "bmw/6-series": {
+      "name": "سيريس 6",
+      "aliases": [
+        "الفئة السادسة"
+      ]
+    },
+    "bmw/i3": {
+      "name": "آي 3",
+      "aliases": []
+    },
+    "bmw/i5": {
+      "name": "آي 5",
+      "aliases": []
+    },
+    "bmw/ix1": {
+      "name": "آي إكس 1",
+      "aliases": []
+    },
+    "bmw/ix3": {
+      "name": "آي إكس 3",
+      "aliases": []
+    },
+    "bmw/m3": {
+      "name": "إم 3",
+      "aliases": []
+    },
+    "byd/atto-2": {
+      "name": "أتو 2",
+      "aliases": []
+    },
+    "byd/dolphin-surf": {
+      "name": "دولفين سيرف",
+      "aliases": []
+    },
+    "byd/m6": {
+      "name": "إم 6",
+      "aliases": []
+    },
+    "byd/seal-u": {
+      "name": "سيل يو",
+      "aliases": []
+    },
+    "byd/sealion-7": {
+      "name": "سي لاين 7",
+      "aliases": [
+        "سيلاين 7"
+      ]
+    },
+    "chery/amulet": {
+      "name": "أميوليت",
+      "aliases": []
+    },
+    "chery/tiggo-cross": {
+      "name": "تيجو كروس",
+      "aliases": [
+        "تيغو كروس"
+      ]
+    },
+    "chevrolet/bel-air": {
+      "name": "بل إير",
+      "aliases": [
+        "بيل اير"
+      ]
+    },
+    "chevrolet/equinox-ev": {
+      "name": "إكوينوكس إي في",
+      "aliases": []
+    },
+    "chevrolet/evanda": {
+      "name": "إيفاندا",
+      "aliases": []
+    },
+    "chevrolet/nubira": {
+      "name": "نوبيرا",
+      "aliases": []
+    },
+    "chevrolet/trax": {
+      "name": "تراكس",
+      "aliases": []
+    },
+    "chrysler/pt-cruiser": {
+      "name": "بي تي كروزر",
+      "aliases": []
+    },
+    "citroen/c1": {
+      "name": "سي 1",
+      "aliases": []
+    },
+    "citroen/c3": {
+      "name": "سي 3",
+      "aliases": []
+    },
+    "citroen/c3-aircross": {
+      "name": "سي 3 إيركروس",
+      "aliases": []
+    },
+    "citroen/c3-picasso": {
+      "name": "سي 3 بيكاسو",
+      "aliases": []
+    },
+    "citroen/c4": {
+      "name": "سي 4",
+      "aliases": []
+    },
+    "citroen/c4-aircross": {
+      "name": "سي 4 إيركروس",
+      "aliases": []
+    },
+    "citroen/c4-cactus": {
+      "name": "سي 4 كاكتوس",
+      "aliases": []
+    },
+    "citroen/c4-picasso": {
+      "name": "سي 4 بيكاسو",
+      "aliases": []
+    },
+    "citroen/c4-spacetourer": {
+      "name": "سي 4 سبيس توورر",
+      "aliases": []
+    },
+    "citroen/c5": {
+      "name": "سي 5",
+      "aliases": []
+    },
+    "citroen/c5-aircross": {
+      "name": "سي 5 إيركروس",
+      "aliases": []
+    },
+    "citroen/c5-x": {
+      "name": "سي 5 إكس",
+      "aliases": []
+    },
+    "citroen/e-c3": {
+      "name": "إي سي 3",
+      "aliases": []
+    },
+    "citroen/e-c3-aircross": {
+      "name": "إي سي 3 إيركروس",
+      "aliases": []
+    },
+    "citroen/xsara-picasso": {
+      "name": "إكسارا بيكاسو",
+      "aliases": []
+    },
+    "cupra/born": {
+      "name": "بورن",
+      "aliases": []
+    },
+    "cupra/formentor": {
+      "name": "فورمنتور",
+      "aliases": []
+    },
+    "cupra/leon": {
+      "name": "ليون",
+      "aliases": []
+    },
+    "cupra/raval": {
+      "name": "رافال",
+      "aliases": []
+    },
+    "cupra/tavascan": {
+      "name": "تافاسكان",
+      "aliases": []
+    },
+    "cupra/terramar": {
+      "name": "تيرامار",
+      "aliases": []
+    },
+    "dacia/bigster": {
+      "name": "بيجستر",
+      "aliases": []
+    },
+    "dacia/duster": {
+      "name": "داستر",
+      "aliases": []
+    },
+    "dacia/jogger": {
+      "name": "جوجر",
+      "aliases": []
+    },
+    "dacia/logan": {
+      "name": "لوجان",
+      "aliases": []
+    },
+    "dacia/sandero": {
+      "name": "ساندرو",
+      "aliases": []
+    },
+    "daihatsu/fourtrak": {
+      "name": "فورتراك",
+      "aliases": []
+    },
+    "daihatsu/sirion": {
+      "name": "سيريون",
+      "aliases": []
+    },
+    "daihatsu/terios": {
+      "name": "تيريوس",
+      "aliases": []
+    },
+    "dodge/hornet": {
+      "name": "هورنت",
+      "aliases": []
+    },
+    "ds/ds-7": {
+      "name": "دي إس 7",
+      "aliases": []
+    },
+    "ebro/s400": {
+      "name": "إس 400",
+      "aliases": []
+    },
+    "ebro/s700": {
+      "name": "إس 700",
+      "aliases": []
+    },
+    "fiat/500-x": {
+      "name": "500 إكس",
+      "aliases": []
+    },
+    "fiat/panda": {
+      "name": "باندا",
+      "aliases": []
+    },
+    "fiat/punto": {
+      "name": "بونتو",
+      "aliases": []
+    },
+    "ford/b-max": {
+      "name": "بي ماكس",
+      "aliases": []
+    },
+    "ford/c-max": {
+      "name": "سي ماكس",
+      "aliases": []
+    },
+    "ford/cortina": {
+      "name": "كورتينا",
+      "aliases": []
+    },
+    "ford/escort": {
+      "name": "إسكورت",
+      "aliases": []
+    },
+    "ford/fiesta": {
+      "name": "فييستا",
+      "aliases": [
+        "فيستا"
+      ]
+    },
+    "ford/galaxy": {
+      "name": "جالاكسي",
+      "aliases": []
+    },
+    "ford/grand-c-max": {
+      "name": "جراند سي ماكس",
+      "aliases": []
+    },
+    "ford/ka": {
+      "name": "كا",
+      "aliases": []
+    },
+    "ford/kuga": {
+      "name": "كوجا",
+      "aliases": [
+        "كوغا"
+      ]
+    },
+    "ford/laser": {
+      "name": "ليزر",
+      "aliases": []
+    },
+    "ford/mondeo": {
+      "name": "مونديو",
+      "aliases": []
+    },
+    "ford/mustang-mach-e": {
+      "name": "موستانج ماك إي",
+      "aliases": [
+        "موستنج ماك اي"
+      ]
+    },
+    "ford/puma": {
+      "name": "بوما",
+      "aliases": []
+    },
+    "ford/s-max": {
+      "name": "إس ماكس",
+      "aliases": []
+    },
+    "ford/sierra": {
+      "name": "سييرا",
+      "aliases": [
+        "سيرا"
+      ]
+    },
+    "ford/telstar": {
+      "name": "تيلستار",
+      "aliases": []
+    },
+    "gac/gs3": {
+      "name": "جي إس 3",
+      "aliases": []
+    },
+    "great-wall/ora": {
+      "name": "أورا",
+      "aliases": []
+    },
+    "great-wall/tank": {
+      "name": "تانك",
+      "aliases": []
+    },
+    "great-wall/tank-300": {
+      "name": "تانك 300",
+      "aliases": []
+    },
+    "honda/insight": {
+      "name": "إنسايت",
+      "aliases": []
+    },
+    "honda/prologue": {
+      "name": "برولوج",
+      "aliases": []
+    },
+    "honda/wr-v": {
+      "name": "دبليو آر في",
+      "aliases": []
+    },
+    "honda/zr-v": {
+      "name": "زد آر في",
+      "aliases": []
+    },
+    "hyundai/bayon": {
+      "name": "بايون",
+      "aliases": []
+    },
+    "hyundai/getz": {
+      "name": "جيتز",
+      "aliases": []
+    },
+    "hyundai/i40": {
+      "name": "آي 40",
+      "aliases": []
+    },
+    "hyundai/i45": {
+      "name": "آي 45",
+      "aliases": []
+    },
+    "hyundai/imax": {
+      "name": "آي ماكس",
+      "aliases": []
+    },
+    "hyundai/inster": {
+      "name": "إنستر",
+      "aliases": []
+    },
+    "hyundai/ioniq": {
+      "name": "أيونيك",
+      "aliases": []
+    },
+    "hyundai/ix35": {
+      "name": "آي إكس 35",
+      "aliases": []
+    },
+    "isuzu/mu-x": {
+      "name": "إم يو إكس",
+      "aliases": []
+    },
+    "jaecoo/jaecoo-5": {
+      "name": "جايكو 5",
+      "aliases": []
+    },
+    "jaecoo/jaecoo-6": {
+      "name": "جايكو 6",
+      "aliases": []
+    },
+    "jaecoo/jaecoo-7": {
+      "name": "جايكو 7",
+      "aliases": []
+    },
+    "jaecoo/jaecoo-8": {
+      "name": "جايكو 8",
+      "aliases": []
+    },
+    "jaguar/s-type": {
+      "name": "إس تايب",
+      "aliases": []
+    },
+    "jaguar/x-type": {
+      "name": "إكس تايب",
+      "aliases": []
+    },
+    "jeep/patriot": {
+      "name": "باتريوت",
+      "aliases": []
+    },
+    "jetour/x50": {
+      "name": "إكس 50",
+      "aliases": []
+    },
+    "kia/carens": {
+      "name": "كارينز",
+      "aliases": []
+    },
+    "kia/ceed": {
+      "name": "سيد",
+      "aliases": []
+    },
+    "kia/ev2": {
+      "name": "إي في 2",
+      "aliases": []
+    },
+    "kia/ev3": {
+      "name": "إي في 3",
+      "aliases": []
+    },
+    "kia/ev4": {
+      "name": "إي في 4",
+      "aliases": []
+    },
+    "kia/ev5": {
+      "name": "إي في 5",
+      "aliases": []
+    },
+    "kia/stonic": {
+      "name": "ستونيك",
+      "aliases": []
+    },
+    "kia/venga": {
+      "name": "فينجا",
+      "aliases": []
+    },
+    "kia/x-ceed": {
+      "name": "إكس سيد",
+      "aliases": []
+    },
+    "leapmotor/t03": {
+      "name": "تي 03",
+      "aliases": []
+    },
+    "lexus/ct": {
+      "name": "سي تي",
+      "aliases": []
+    },
+    "lexus/gs": {
+      "name": "جي إس",
+      "aliases": []
+    },
+    "lexus/lbx": {
+      "name": "إل بي إكس",
+      "aliases": []
+    },
+    "mazda/cx-60": {
+      "name": "سي إكس 60",
+      "aliases": []
+    },
+    "mazda/cx-7": {
+      "name": "سي إكس 7",
+      "aliases": []
+    },
+    "mazda/cx-8": {
+      "name": "سي إكس 8",
+      "aliases": []
+    },
+    "mazda/mazda5": {
+      "name": "مازدا 5",
+      "aliases": []
+    },
+    "mazda/mazda6e": {
+      "name": "مازدا 6 إي",
+      "aliases": []
+    },
+    "mazda/verisa": {
+      "name": "فيريزا",
+      "aliases": []
+    },
+    "mercedes-benz/eqa": {
+      "name": "إي كيو إيه",
+      "aliases": []
+    },
+    "mercedes-benz/eqe": {
+      "name": "إي كيو إي",
+      "aliases": []
+    },
+    "mercedes-benz/eqs": {
+      "name": "إي كيو إس",
+      "aliases": []
+    },
+    "mercedes-benz/glk": {
+      "name": "جي إل كيه",
+      "aliases": []
+    },
+    "mercedes-benz/ml": {
+      "name": "إم إل",
+      "aliases": []
+    },
+    "mercedes-benz/slk": {
+      "name": "إس إل كيه",
+      "aliases": []
+    },
+    "mg/ep": {
+      "name": "إي بي",
+      "aliases": []
+    },
+    "mg/mg4": {
+      "name": "إم جي 4",
+      "aliases": []
+    },
+    "mg/mgf": {
+      "name": "إم جي إف",
+      "aliases": []
+    },
+    "mg/mgs5-ev": {
+      "name": "إم جي إس 5",
+      "aliases": []
+    },
+    "mini/aceman": {
+      "name": "أسيمان",
+      "aliases": []
+    },
+    "mini/cooper": {
+      "name": "كوبر",
+      "aliases": []
+    },
+    "mini/countryman": {
+      "name": "كانتريمان",
+      "aliases": []
+    },
+    "mitsubishi/dion": {
+      "name": "ديون",
+      "aliases": []
+    },
+    "mitsubishi/pajero-sport": {
+      "name": "باجيرو سبورت",
+      "aliases": []
+    },
+    "mitsubishi/space-star": {
+      "name": "سبيس ستار",
+      "aliases": []
+    },
+    "mitsubishi/triton": {
+      "name": "تريتون",
+      "aliases": []
+    },
+    "mitsubishi/xforce": {
+      "name": "إكسفورس",
+      "aliases": []
+    },
+    "mitsubishi/xpander-cross": {
+      "name": "إكسباندر كروس",
+      "aliases": []
+    },
+    "nissan/almera": {
+      "name": "ألميرا",
+      "aliases": []
+    },
+    "nissan/dualis": {
+      "name": "دواليس",
+      "aliases": []
+    },
+    "nissan/leaf": {
+      "name": "ليف",
+      "aliases": []
+    },
+    "nissan/mistral": {
+      "name": "ميسترال",
+      "aliases": []
+    },
+    "nissan/note": {
+      "name": "نوت",
+      "aliases": []
+    },
+    "nissan/presage": {
+      "name": "بريساج",
+      "aliases": []
+    },
+    "nissan/primera": {
+      "name": "بريميرا",
+      "aliases": []
+    },
+    "nissan/sylphy": {
+      "name": "سيلفي",
+      "aliases": []
+    },
+    "nissan/terrano": {
+      "name": "تيرانو",
+      "aliases": []
+    },
+    "nissan/tiida": {
+      "name": "تيدا",
+      "aliases": []
+    },
+    "omoda/omoda-5": {
+      "name": "أومودا 5",
+      "aliases": []
+    },
+    "omoda/omoda-7": {
+      "name": "أومودا 7",
+      "aliases": []
+    },
+    "opel/ampera-e": {
+      "name": "أمبيرا إي",
+      "aliases": []
+    },
+    "opel/antara": {
+      "name": "أنتارا",
+      "aliases": []
+    },
+    "opel/astra": {
+      "name": "أسترا",
+      "aliases": []
+    },
+    "opel/corsa": {
+      "name": "كورسا",
+      "aliases": []
+    },
+    "opel/frontera": {
+      "name": "فرونتيرا",
+      "aliases": []
+    },
+    "opel/grandland": {
+      "name": "جراندلاند",
+      "aliases": []
+    },
+    "opel/kadett": {
+      "name": "كاديت",
+      "aliases": []
+    },
+    "opel/meriva": {
+      "name": "ميريفا",
+      "aliases": []
+    },
+    "opel/mokka": {
+      "name": "موكا",
+      "aliases": []
+    },
+    "opel/zafira": {
+      "name": "زافيرا",
+      "aliases": []
+    },
+    "perodua/alza": {
+      "name": "ألزا",
+      "aliases": []
+    },
+    "perodua/aruz": {
+      "name": "أروز",
+      "aliases": []
+    },
+    "perodua/ativa": {
+      "name": "أتيفا",
+      "aliases": []
+    },
+    "perodua/axia": {
+      "name": "أكسيا",
+      "aliases": []
+    },
+    "perodua/bezza": {
+      "name": "بيزا",
+      "aliases": []
+    },
+    "perodua/myvi": {
+      "name": "ميفي",
+      "aliases": []
+    },
+    "perodua/traz": {
+      "name": "تراز",
+      "aliases": []
+    },
+    "polestar/polestar-2": {
+      "name": "بولستار 2",
+      "aliases": []
+    },
+    "proton/e-mas-5": {
+      "name": "إي ماس 5",
+      "aliases": []
+    },
+    "proton/e-mas-7": {
+      "name": "إي ماس 7",
+      "aliases": []
+    },
+    "proton/iriz": {
+      "name": "إيريز",
+      "aliases": []
+    },
+    "proton/s70": {
+      "name": "إس 70",
+      "aliases": []
+    },
+    "proton/saga": {
+      "name": "ساجا",
+      "aliases": []
+    },
+    "proton/x50": {
+      "name": "إكس 50",
+      "aliases": []
+    },
+    "proton/x70": {
+      "name": "إكس 70",
+      "aliases": []
+    },
+    "proton/x90": {
+      "name": "إكس 90",
+      "aliases": []
+    },
+    "renault/arkana": {
+      "name": "أركانا",
+      "aliases": []
+    },
+    "renault/austral": {
+      "name": "أوسترال",
+      "aliases": []
+    },
+    "renault/espace": {
+      "name": "إسباس",
+      "aliases": []
+    },
+    "renault/laguna": {
+      "name": "لاجونا",
+      "aliases": []
+    },
+    "renault/modus": {
+      "name": "موديس",
+      "aliases": []
+    },
+    "renault/rafale": {
+      "name": "رافال",
+      "aliases": []
+    },
+    "renault/scenic": {
+      "name": "سينيك",
+      "aliases": []
+    },
+    "renault/symbioz": {
+      "name": "سيمبيوز",
+      "aliases": []
+    },
+    "renault/twingo": {
+      "name": "توينجو",
+      "aliases": []
+    },
+    "renault/zoe": {
+      "name": "زوي",
+      "aliases": []
+    },
+    "seat/alhambra": {
+      "name": "ألهامبرا",
+      "aliases": []
+    },
+    "seat/altea": {
+      "name": "ألتيا",
+      "aliases": []
+    },
+    "seat/arona": {
+      "name": "أرونا",
+      "aliases": []
+    },
+    "seat/ateca": {
+      "name": "أتيكا",
+      "aliases": []
+    },
+    "seat/ibiza": {
+      "name": "إيبيزا",
+      "aliases": []
+    },
+    "seat/leon": {
+      "name": "ليون",
+      "aliases": []
+    },
+    "seat/mii": {
+      "name": "ميي",
+      "aliases": []
+    },
+    "seat/toledo": {
+      "name": "توليدو",
+      "aliases": []
+    },
+    "skoda/citigo": {
+      "name": "سيتيجو",
+      "aliases": []
+    },
+    "skoda/elroq": {
+      "name": "إلروك",
+      "aliases": []
+    },
+    "skoda/enyaq": {
+      "name": "إنياك",
+      "aliases": []
+    },
+    "skoda/roomster": {
+      "name": "رومستر",
+      "aliases": []
+    },
+    "skoda/yeti": {
+      "name": "يتي",
+      "aliases": []
+    },
+    "smart/fortwo": {
+      "name": "فورتو",
+      "aliases": []
+    },
+    "ssangyong/korando": {
+      "name": "كوراندو",
+      "aliases": []
+    },
+    "ssangyong/rexton": {
+      "name": "ريكستون",
+      "aliases": []
+    },
+    "suzuki/alto": {
+      "name": "ألتو",
+      "aliases": []
+    },
+    "suzuki/ignis": {
+      "name": "إجنيس",
+      "aliases": []
+    },
+    "suzuki/s-cross": {
+      "name": "إس كروس",
+      "aliases": []
+    },
+    "suzuki/splash": {
+      "name": "سبلاش",
+      "aliases": []
+    },
+    "suzuki/sx4": {
+      "name": "إس إكس 4",
+      "aliases": []
+    },
+    "toyota/allex": {
+      "name": "ألكس",
+      "aliases": []
+    },
+    "toyota/allion": {
+      "name": "ألليون",
+      "aliases": [
+        "اليون"
+      ]
+    },
+    "toyota/alphard": {
+      "name": "ألفارد",
+      "aliases": []
+    },
+    "toyota/auris": {
+      "name": "أوريس",
+      "aliases": []
+    },
+    "toyota/avensis": {
+      "name": "أفينسيس",
+      "aliases": []
+    },
+    "toyota/aygo": {
+      "name": "أيجو",
+      "aliases": []
+    },
+    "toyota/aygo-x": {
+      "name": "أيجو إكس",
+      "aliases": []
+    },
+    "toyota/blade": {
+      "name": "بليد",
+      "aliases": []
+    },
+    "toyota/c-hr": {
+      "name": "سي إتش آر",
+      "aliases": []
+    },
+    "toyota/carina-e": {
+      "name": "كارينا إي",
+      "aliases": []
+    },
+    "toyota/commuter": {
+      "name": "كوميوتر",
+      "aliases": []
+    },
+    "toyota/passo": {
+      "name": "باسو",
+      "aliases": []
+    },
+    "toyota/platz": {
+      "name": "بلاتز",
+      "aliases": []
+    },
+    "toyota/raum": {
+      "name": "راوم",
+      "aliases": []
+    },
+    "toyota/runx": {
+      "name": "رانكس",
+      "aliases": []
+    },
+    "toyota/spacio": {
+      "name": "سباسيو",
+      "aliases": []
+    },
+    "toyota/veloz": {
+      "name": "فيلوز",
+      "aliases": []
+    },
+    "toyota/verso": {
+      "name": "فيرسو",
+      "aliases": []
+    },
+    "toyota/verso-s": {
+      "name": "فيرسو إس",
+      "aliases": []
+    },
+    "toyota/yaris-cross": {
+      "name": "يارس كروس",
+      "aliases": []
+    },
+    "vauxhall/frontera": {
+      "name": "فرونتيرا",
+      "aliases": []
+    },
+    "vauxhall/grandland": {
+      "name": "جراندلاند",
+      "aliases": []
+    },
+    "vauxhall/nova": {
+      "name": "نوفا",
+      "aliases": []
+    },
+    "volkswagen/bora": {
+      "name": "بورا",
+      "aliases": []
+    },
+    "volkswagen/caravelle": {
+      "name": "كارافيل",
+      "aliases": []
+    },
+    "volkswagen/cc": {
+      "name": "سي سي",
+      "aliases": []
+    },
+    "volkswagen/eos": {
+      "name": "إيوس",
+      "aliases": []
+    },
+    "volkswagen/fox": {
+      "name": "فوكس",
+      "aliases": []
+    },
+    "volkswagen/id-3": {
+      "name": "آي دي 3",
+      "aliases": []
+    },
+    "volkswagen/id-5": {
+      "name": "آي دي 5",
+      "aliases": []
+    },
+    "volkswagen/id-7": {
+      "name": "آي دي 7",
+      "aliases": []
+    },
+    "volkswagen/scirocco": {
+      "name": "سيروكو",
+      "aliases": []
+    },
+    "volkswagen/sharan": {
+      "name": "شاران",
+      "aliases": []
+    },
+    "volkswagen/t-cross": {
+      "name": "تي كروس",
+      "aliases": []
+    },
+    "volkswagen/taigo": {
+      "name": "تايجو",
+      "aliases": []
+    },
+    "volkswagen/tayron": {
+      "name": "تايرون",
+      "aliases": []
+    },
+    "volkswagen/touran": {
+      "name": "توران",
+      "aliases": []
+    },
+    "volkswagen/up": {
+      "name": "أب",
+      "aliases": []
+    },
+    "volvo/ex30": {
+      "name": "إي إكس 30",
+      "aliases": []
+    },
+    "volvo/s40": {
+      "name": "إس 40",
+      "aliases": []
+    },
+    "volvo/v40": {
+      "name": "في 40",
+      "aliases": []
+    },
+    "volvo/v50": {
+      "name": "في 50",
+      "aliases": []
+    },
+    "volvo/v70": {
+      "name": "في 70",
+      "aliases": []
+    },
+    "volvo/xc70": {
+      "name": "إكس سي 70",
+      "aliases": []
+    },
+    "zeekr/7x": {
+      "name": "7 إكس",
+      "aliases": []
+    },
+    "toyota/prius": {
+      "name": "بريوس",
+      "aliases": []
+    },
+    "toyota/vios": {
+      "name": "فيوس",
+      "aliases": []
+    },
+    "toyota/vitz": {
+      "name": "فيتز",
+      "aliases": []
+    },
+    "toyota/noah": {
+      "name": "نواه",
+      "aliases": []
+    },
+    "toyota/voxy": {
+      "name": "فوكسي",
+      "aliases": []
+    },
+    "toyota/vellfire": {
+      "name": "فيلفاير",
+      "aliases": []
+    },
+    "toyota/estima": {
+      "name": "إستيما",
+      "aliases": []
+    },
+    "toyota/mark-x": {
+      "name": "مارك إكس",
+      "aliases": []
+    },
+    "toyota/corolla-fielder": {
+      "name": "كورولا فيلدر",
+      "aliases": []
+    },
+    "toyota/celica": {
+      "name": "سيليكا",
+      "aliases": []
+    },
+    "toyota/starlet": {
+      "name": "ستارليت",
+      "aliases": []
+    },
+    "toyota/previa": {
+      "name": "بريفيا",
+      "aliases": []
+    },
+    "toyota/echo": {
+      "name": "إيكو",
+      "aliases": []
+    },
+    "toyota/fj-cruiser": {
+      "name": "إف جي كروزر",
+      "aliases": []
+    },
+    "toyota/gr86": {
+      "name": "جي آر 86",
+      "aliases": []
+    },
+    "toyota/gr-yaris": {
+      "name": "جي آر يارس",
+      "aliases": []
+    },
+    "toyota/bz4x": {
+      "name": "بي زد 4 إكس",
+      "aliases": []
+    },
+    "toyota/grand-highlander": {
+      "name": "جراند هايلاندر",
+      "aliases": []
+    },
+    "toyota/urban-cruiser": {
+      "name": "أوربان كروزر",
+      "aliases": []
+    },
+    "toyota/mr2": {
+      "name": "إم آر 2",
+      "aliases": []
+    },
+    "toyota/townace": {
+      "name": "تاون إيس",
+      "aliases": []
+    },
+    "toyota/cressida": {
+      "name": "كريسيدا",
+      "aliases": []
+    },
+    "toyota/corona": {
+      "name": "كورونا",
+      "aliases": []
+    },
+    "bmw/m2": {
+      "name": "إم 2",
+      "aliases": []
+    },
+    "bmw/m4": {
+      "name": "إم 4",
+      "aliases": []
+    },
+    "bmw/m5": {
+      "name": "إم 5",
+      "aliases": []
+    },
+    "bmw/m6": {
+      "name": "إم 6",
+      "aliases": []
+    },
+    "bmw/m8": {
+      "name": "إم 8",
+      "aliases": []
+    },
+    "bmw/xm": {
+      "name": "إكس إم",
+      "aliases": []
+    },
+    "bmw/i7": {
+      "name": "آي 7",
+      "aliases": []
+    },
+    "bmw/i8": {
+      "name": "آي 8",
+      "aliases": []
+    },
+    "bmw/ix2": {
+      "name": "آي إكس 2",
+      "aliases": []
+    },
+    "bmw/z3": {
+      "name": "زد 3",
+      "aliases": []
+    },
+    "audi/rs3": {
+      "name": "آر إس 3",
+      "aliases": []
+    },
+    "audi/rs4": {
+      "name": "آر إس 4",
+      "aliases": []
+    },
+    "audi/rs5": {
+      "name": "آر إس 5",
+      "aliases": []
+    },
+    "audi/rs6": {
+      "name": "آر إس 6",
+      "aliases": []
+    },
+    "audi/rsq8": {
+      "name": "آر إس كيو 8",
+      "aliases": []
+    },
+    "audi/s5": {
+      "name": "إس 5",
+      "aliases": []
+    },
+    "audi/s6": {
+      "name": "إس 6",
+      "aliases": []
+    },
+    "audi/s7": {
+      "name": "إس 7",
+      "aliases": []
+    },
+    "audi/s8": {
+      "name": "إس 8",
+      "aliases": []
+    },
+    "audi/sq7": {
+      "name": "إس كيو 7",
+      "aliases": []
+    },
+    "audi/sq8": {
+      "name": "إس كيو 8",
+      "aliases": []
+    },
+    "audi/q6": {
+      "name": "كيو 6",
+      "aliases": []
+    },
+    "audi/a2": {
+      "name": "إيه 2",
+      "aliases": []
+    },
+    "audi/allroad": {
+      "name": "أولرود",
+      "aliases": []
+    },
+    "audi/e-tron-gt": {
+      "name": "إي ترون جي تي",
+      "aliases": []
+    },
+    "audi/tts": {
+      "name": "تي تي إس",
+      "aliases": []
+    },
+    "nissan/serena": {
+      "name": "سيرينا",
+      "aliases": []
+    },
+    "nissan/skyline": {
+      "name": "سكايلاين",
+      "aliases": []
+    },
+    "nissan/silvia": {
+      "name": "سيلفيا",
+      "aliases": []
+    },
+    "nissan/teana": {
+      "name": "تيانا",
+      "aliases": []
+    },
+    "nissan/bluebird": {
+      "name": "بلوبيرد",
+      "aliases": []
+    },
+    "nissan/elgrand": {
+      "name": "إلجراند",
+      "aliases": []
+    },
+    "nissan/ariya": {
+      "name": "أريا",
+      "aliases": []
+    },
+    "nissan/cube": {
+      "name": "كيوب",
+      "aliases": []
+    },
+    "nissan/pulsar": {
+      "name": "بالسار",
+      "aliases": []
+    },
+    "nissan/versa": {
+      "name": "فيرسا",
+      "aliases": []
+    },
+    "nissan/pixo": {
+      "name": "بيكسو",
+      "aliases": []
+    },
+    "nissan/370-z": {
+      "name": "370 زد",
+      "aliases": []
+    },
+    "nissan/350-z": {
+      "name": "350 زد",
+      "aliases": []
+    },
+    "nissan/cima": {
+      "name": "سيما",
+      "aliases": []
+    },
+    "porsche/boxster": {
+      "name": "بوكستر",
+      "aliases": []
+    },
+    "porsche/cayman": {
+      "name": "كايمان",
+      "aliases": []
+    },
+    "lamborghini/urus": {
+      "name": "أوروس",
+      "aliases": []
+    },
+    "maserati/ghibli": {
+      "name": "جيبلي",
+      "aliases": []
+    },
+    "maserati/levante": {
+      "name": "ليفانتي",
+      "aliases": []
+    },
+    "maserati/quattroporte": {
+      "name": "كواتروبورتي",
+      "aliases": []
+    },
+    "maserati/grecale": {
+      "name": "جريكالي",
+      "aliases": []
+    },
+    "bentley/bentayga": {
+      "name": "بنتايجا",
+      "aliases": []
+    },
+    "bentley/continental-gt": {
+      "name": "كونتيننتال جي تي",
+      "aliases": []
+    },
+    "bentley/flying-spur": {
+      "name": "فلاينج سبير",
+      "aliases": []
+    },
+    "bentley/continental": {
+      "name": "كونتيننتال",
+      "aliases": []
+    },
+    "aston-martin/vantage": {
+      "name": "فانتج",
+      "aliases": []
+    },
+    "aston-martin/db9": {
+      "name": "دي بي 9",
+      "aliases": []
+    },
+    "aston-martin/db7": {
+      "name": "دي بي 7",
+      "aliases": []
+    },
+    "mazda/cx-80": {
+      "name": "سي إكس 80",
+      "aliases": []
+    },
+    "mazda/cx-90": {
+      "name": "سي إكس 90",
+      "aliases": []
+    },
+    "mazda/mx-30": {
+      "name": "إم إكس 30",
+      "aliases": []
+    },
+    "mazda/rx-7": {
+      "name": "آر إكس 7",
+      "aliases": []
+    },
+    "mazda/rx-8": {
+      "name": "آر إكس 8",
+      "aliases": []
+    },
+    "mazda/mpv": {
+      "name": "إم بي في",
+      "aliases": []
+    },
+    "mazda/demio": {
+      "name": "ديميو",
+      "aliases": []
+    },
+    "mazda/axela": {
+      "name": "أكسيلا",
+      "aliases": []
+    },
+    "mazda/premacy": {
+      "name": "بريماسي",
+      "aliases": []
+    },
+    "mazda/tribute": {
+      "name": "تريبيوت",
+      "aliases": []
+    },
+    "mazda/cx-6e": {
+      "name": "سي إكس 6 إي",
+      "aliases": []
+    },
+    "hyundai/ioniq-6": {
+      "name": "أيونيك 6",
+      "aliases": []
+    },
+    "hyundai/veloster": {
+      "name": "فيلوستر",
+      "aliases": []
+    },
+    "hyundai/santa-cruz": {
+      "name": "سانتا كروز",
+      "aliases": []
+    },
+    "hyundai/terracan": {
+      "name": "تيراكان",
+      "aliases": []
+    },
+    "hyundai/coupe": {
+      "name": "كوبيه",
+      "aliases": []
+    },
+    "hyundai/tiburon": {
+      "name": "تيبورون",
+      "aliases": []
+    },
+    "hyundai/atos": {
+      "name": "أتوس",
+      "aliases": []
+    },
+    "hyundai/lantra": {
+      "name": "لانترا",
+      "aliases": []
+    },
+    "hyundai/matrix": {
+      "name": "ماتريكس",
+      "aliases": []
+    },
+    "hyundai/grandeur": {
+      "name": "جراندير",
+      "aliases": []
+    },
+    "hyundai/h-1": {
+      "name": "إتش 1",
+      "aliases": []
+    },
+    "hyundai/ix20": {
+      "name": "آي إكس 20",
+      "aliases": []
+    },
+    "kia/ev9": {
+      "name": "إي في 9",
+      "aliases": []
+    },
+    "kia/k4": {
+      "name": "كي 4",
+      "aliases": []
+    },
+    "kia/k7": {
+      "name": "كي 7",
+      "aliases": []
+    },
+    "kia/magentis": {
+      "name": "ماجنتس",
+      "aliases": []
+    },
+    "kia/opirus": {
+      "name": "أوبيروس",
+      "aliases": []
+    },
+    "kia/pro-ceed": {
+      "name": "برو سيد",
+      "aliases": []
+    },
+    "kia/pv5": {
+      "name": "بي في 5",
+      "aliases": []
+    },
+    "lincoln/navigator": {
+      "name": "نافيجيتور",
+      "aliases": []
+    },
+    "lincoln/continental": {
+      "name": "كونتيننتال",
+      "aliases": []
+    },
+    "lincoln/mkz": {
+      "name": "إم كي زد",
+      "aliases": []
+    },
+    "lincoln/nautilus": {
+      "name": "نوتيلوس",
+      "aliases": []
+    },
+    "jeep/avenger": {
+      "name": "أفنجر",
+      "aliases": []
+    },
+    "jeep/commander": {
+      "name": "كوماندر",
+      "aliases": []
+    },
+    "jeep/cj-7": {
+      "name": "سي جي 7",
+      "aliases": []
+    },
+    "mitsubishi/eclipse": {
+      "name": "إكليبس",
+      "aliases": []
+    },
+    "mitsubishi/colt": {
+      "name": "كولت",
+      "aliases": []
+    },
+    "mitsubishi/galant": {
+      "name": "جالانت",
+      "aliases": []
+    },
+    "mitsubishi/delica": {
+      "name": "ديليكا",
+      "aliases": []
+    },
+    "mitsubishi/shogun": {
+      "name": "شوجن",
+      "aliases": []
+    },
+    "mitsubishi/carisma": {
+      "name": "كاريزما",
+      "aliases": []
+    },
+    "mitsubishi/grandis": {
+      "name": "جراندس",
+      "aliases": []
+    },
+    "mitsubishi/lancer-evolution": {
+      "name": "لانسر إيفولوشن",
+      "aliases": []
+    },
+    "mitsubishi/i-miev": {
+      "name": "آي ميف",
+      "aliases": []
+    },
+    "mitsubishi/outlander-sport": {
+      "name": "أوتلاندر سبورت",
+      "aliases": []
+    },
+    "mitsubishi/pajero-pinin": {
+      "name": "باجيرو بينين",
+      "aliases": []
+    },
+    "mitsubishi/3000-gt": {
+      "name": "3000 جي تي",
+      "aliases": []
+    },
+    "mitsubishi/challenger": {
+      "name": "تشالنجر",
+      "aliases": []
+    },
+    "honda/fit": {
+      "name": "فيت",
+      "aliases": []
+    },
+    "honda/vezel": {
+      "name": "فيزل",
+      "aliases": []
+    },
+    "honda/legend": {
+      "name": "ليجند",
+      "aliases": []
+    },
+    "honda/s2000": {
+      "name": "إس 2000",
+      "aliases": []
+    },
+    "honda/integra": {
+      "name": "إنتيجرا",
+      "aliases": []
+    },
+    "honda/prelude": {
+      "name": "بريلود",
+      "aliases": []
+    },
+    "honda/stream": {
+      "name": "ستريم",
+      "aliases": []
+    },
+    "honda/stepwagon": {
+      "name": "ستيب وجن",
+      "aliases": []
+    },
+    "honda/cr-z": {
+      "name": "سي آر زد",
+      "aliases": []
+    },
+    "honda/e": {
+      "name": "إي",
+      "aliases": []
+    },
+    "honda/beat": {
+      "name": "بيت",
+      "aliases": []
+    },
+    "honda/fr-v": {
+      "name": "إف آر في",
+      "aliases": []
+    },
+    "honda/logo": {
+      "name": "لوجو",
+      "aliases": []
+    },
+    "opel/insignia": {
+      "name": "إنسيجنيا",
+      "aliases": []
+    },
+    "opel/vectra": {
+      "name": "فيكترا",
+      "aliases": []
+    },
+    "opel/omega": {
+      "name": "أوميجا",
+      "aliases": []
+    },
+    "opel/adam": {
+      "name": "آدم",
+      "aliases": []
+    },
+    "opel/crossland": {
+      "name": "كروسلاند",
+      "aliases": []
+    },
+    "opel/calibra": {
+      "name": "كاليبرا",
+      "aliases": []
+    },
+    "opel/tigra": {
+      "name": "تيجرا",
+      "aliases": []
+    },
+    "opel/agila": {
+      "name": "أجيلا",
+      "aliases": []
+    },
+    "opel/karl": {
+      "name": "كارل",
+      "aliases": []
+    },
+    "opel/manta": {
+      "name": "مانتا",
+      "aliases": []
+    },
+    "opel/signum": {
+      "name": "سيجنوم",
+      "aliases": []
+    },
+    "opel/rekord": {
+      "name": "ريكورد",
+      "aliases": []
+    },
+    "renault/sandero": {
+      "name": "ساندرو",
+      "aliases": []
+    },
+    "seat/tarraco": {
+      "name": "تاراكو",
+      "aliases": []
+    },
+    "seat/arosa": {
+      "name": "أروسا",
+      "aliases": []
+    },
+    "seat/exeo": {
+      "name": "إكسيو",
+      "aliases": []
+    },
+    "lexus/rz": {
+      "name": "آر زد",
+      "aliases": []
+    },
+    "lexus/sc": {
+      "name": "إس سي",
+      "aliases": []
+    },
+    "volvo/c30": {
+      "name": "سي 30",
+      "aliases": []
+    },
+    "volvo/c40": {
+      "name": "سي 40",
+      "aliases": []
+    },
+    "volvo/ec40": {
+      "name": "إي سي 40",
+      "aliases": []
+    },
+    "volvo/ex40": {
+      "name": "إي إكس 40",
+      "aliases": []
+    },
+    "volvo/ex90": {
+      "name": "إي إكس 90",
+      "aliases": []
+    },
+    "volvo/es90": {
+      "name": "إي إس 90",
+      "aliases": []
+    },
+    "volvo/s70": {
+      "name": "إس 70",
+      "aliases": []
+    },
+    "volvo/s80": {
+      "name": "إس 80",
+      "aliases": []
+    },
+    "volvo/c70": {
+      "name": "سي 70",
+      "aliases": []
+    },
+    "volvo/amazon": {
+      "name": "أمازون",
+      "aliases": []
+    },
+    "ford/capri": {
+      "name": "كابري",
+      "aliases": []
+    },
+    "ford/granada": {
+      "name": "جرانادا",
+      "aliases": []
+    },
+    "ford/maverick": {
+      "name": "مافريك",
+      "aliases": []
+    },
+    "ford/flex": {
+      "name": "فليكس",
+      "aliases": []
+    },
+    "ford/probe": {
+      "name": "بروب",
+      "aliases": []
+    },
+    "ford/thunderbird": {
+      "name": "ثندربيرد",
+      "aliases": []
+    },
+    "ford/falcon": {
+      "name": "فالكون",
+      "aliases": []
+    },
+    "ford/fairlane": {
+      "name": "فيرلين",
+      "aliases": []
+    },
+    "ford/torino": {
+      "name": "تورينو",
+      "aliases": []
+    },
+    "ford/econoline": {
+      "name": "إيكونولاين",
+      "aliases": []
+    },
+    "ford/scorpio": {
+      "name": "سكوربيو",
+      "aliases": []
+    },
+    "ford/model-t": {
+      "name": "موديل تي",
+      "aliases": []
+    },
+    "ford/anglia": {
+      "name": "أنجليا",
+      "aliases": []
+    },
+    "ford/cougar": {
+      "name": "كوجار",
+      "aliases": []
+    },
+    "ford/festiva": {
+      "name": "فستيفا",
+      "aliases": []
+    },
+    "ford/zephyr": {
+      "name": "زيفير",
+      "aliases": []
+    },
+    "suzuki/fronx": {
+      "name": "فرونكس",
+      "aliases": []
+    },
+    "suzuki/wagon-r": {
+      "name": "واجن آر",
+      "aliases": []
+    },
+    "suzuki/samurai": {
+      "name": "ساموراي",
+      "aliases": []
+    },
+    "suzuki/kizashi": {
+      "name": "كيزاشي",
+      "aliases": []
+    },
+    "suzuki/swace": {
+      "name": "سويس",
+      "aliases": []
+    },
+    "suzuki/across": {
+      "name": "أكروس",
+      "aliases": []
+    },
+    "suzuki/e-vitara": {
+      "name": "إي فيتارا",
+      "aliases": []
+    },
+    "suzuki/liana": {
+      "name": "ليانا",
+      "aliases": []
+    },
+    "suzuki/jimny-sierra": {
+      "name": "جيمني سييرا",
+      "aliases": []
+    },
+    "subaru/crosstrek": {
+      "name": "كروستريك",
+      "aliases": []
+    },
+    "subaru/levorg": {
+      "name": "ليفورج",
+      "aliases": []
+    },
+    "subaru/solterra": {
+      "name": "سولتيرا",
+      "aliases": []
+    },
+    "subaru/tribeca": {
+      "name": "تريبيكا",
+      "aliases": []
+    },
+    "subaru/justy": {
+      "name": "جاستي",
+      "aliases": []
+    },
+    "subaru/trezia": {
+      "name": "تريزيا",
+      "aliases": []
+    },
+    "chevrolet/bolt": {
+      "name": "بولت",
+      "aliases": []
+    },
+    "chevrolet/volt": {
+      "name": "فولت",
+      "aliases": []
+    },
+    "chevrolet/orlando": {
+      "name": "أورلاندو",
+      "aliases": []
+    },
+    "chevrolet/sonic": {
+      "name": "سونيك",
+      "aliases": []
+    },
+    "chevrolet/tracker": {
+      "name": "تراكر",
+      "aliases": []
+    },
+    "chevrolet/lacetti": {
+      "name": "لاسيتي",
+      "aliases": []
+    },
+    "chevrolet/matiz": {
+      "name": "ماتيز",
+      "aliases": []
+    },
+    "chevrolet/caprice": {
+      "name": "كابريس",
+      "aliases": []
+    },
+    "chevrolet/monte-carlo": {
+      "name": "مونت كارلو",
+      "aliases": []
+    },
+    "chevrolet/chevelle": {
+      "name": "شيفيل",
+      "aliases": []
+    },
+    "chevrolet/el-camino": {
+      "name": "إل كامينو",
+      "aliases": []
+    },
+    "chevrolet/astro": {
+      "name": "أسترو",
+      "aliases": []
+    },
+    "chevrolet/epica": {
+      "name": "إيبيكا",
+      "aliases": []
+    },
+    "chevrolet/hhr": {
+      "name": "إتش إتش آر",
+      "aliases": []
+    },
+    "chevrolet/kalos": {
+      "name": "كالوس",
+      "aliases": []
+    },
+    "chevrolet/niva": {
+      "name": "نيفا",
+      "aliases": []
+    },
+    "chevrolet/tacuma": {
+      "name": "تاكوما",
+      "aliases": []
+    },
+    "chevrolet/biscayne": {
+      "name": "بيسكاين",
+      "aliases": []
+    },
+    "chevrolet/nova": {
+      "name": "نوفا",
+      "aliases": []
+    },
+    "chevrolet/uplander": {
+      "name": "أبلاندر",
+      "aliases": []
+    },
+    "cadillac/cts": {
+      "name": "سي تي إس",
+      "aliases": []
+    },
+    "cadillac/srx": {
+      "name": "إس آر إكس",
+      "aliases": []
+    },
+    "cadillac/el-dorado": {
+      "name": "إلدورادو",
+      "aliases": []
+    },
+    "cadillac/de-ville": {
+      "name": "دي فيل",
+      "aliases": []
+    },
+    "cadillac/fleetwood": {
+      "name": "فليتوود",
+      "aliases": []
+    },
+    "chrysler/crossfire": {
+      "name": "كروس فاير",
+      "aliases": []
+    },
+    "chrysler/neon": {
+      "name": "نيون",
+      "aliases": []
+    },
+    "chrysler/town-country": {
+      "name": "تاون آند كنتري",
+      "aliases": []
+    },
+    "chrysler/grand-voyager": {
+      "name": "جراند فوياجر",
+      "aliases": []
+    },
+    "chrysler/stratus": {
+      "name": "ستراتس",
+      "aliases": []
+    },
+    "dodge/nitro": {
+      "name": "نيترو",
+      "aliases": []
+    },
+    "dodge/caliber": {
+      "name": "كاليبر",
+      "aliases": []
+    },
+    "dodge/avenger": {
+      "name": "أفنجر",
+      "aliases": []
+    },
+    "dodge/aspen": {
+      "name": "أسبن",
+      "aliases": []
+    },
+    "dodge/grand-caravan": {
+      "name": "جراند كارافان",
+      "aliases": []
+    },
+    "dodge/coronet": {
+      "name": "كورونيت",
+      "aliases": []
+    },
+    "buick/enclave": {
+      "name": "إنكليف",
+      "aliases": []
+    },
+    "buick/encore": {
+      "name": "إنكور",
+      "aliases": []
+    },
+    "buick/regal": {
+      "name": "ريجال",
+      "aliases": []
+    },
+    "buick/riviera": {
+      "name": "ريفييرا",
+      "aliases": []
+    },
+    "buick/electra": {
+      "name": "إلكترا",
+      "aliases": []
+    },
+    "buick/skylark": {
+      "name": "سكايلارك",
+      "aliases": []
+    },
+    "acura/rdx": {
+      "name": "آر دي إكس",
+      "aliases": []
+    },
+    "acura/tsx": {
+      "name": "تي إس إكس",
+      "aliases": []
+    },
+    "infiniti/q30": {
+      "name": "كيو 30",
+      "aliases": []
+    },
+    "infiniti/qx70": {
+      "name": "كيو إكس 70",
+      "aliases": []
+    },
+    "infiniti/fx35": {
+      "name": "إف إكس 35",
+      "aliases": []
+    },
+    "infiniti/g25": {
+      "name": "جي 25",
+      "aliases": []
+    },
+    "daihatsu/charade": {
+      "name": "شاراد",
+      "aliases": []
+    },
+    "daihatsu/copen": {
+      "name": "كوبن",
+      "aliases": []
+    },
+    "daihatsu/feroza": {
+      "name": "فيروزا",
+      "aliases": []
+    },
+    "daihatsu/yrv": {
+      "name": "واي آر في",
+      "aliases": []
+    },
+    "daihatsu/gran-move": {
+      "name": "جران موف",
+      "aliases": []
+    },
+    "dacia/spring": {
+      "name": "سبرينج",
+      "aliases": []
+    },
+    "citroen/c-elysee": {
+      "name": "سي إليزيه",
+      "aliases": []
+    },
+    "citroen/c4x": {
+      "name": "سي 4 إكس",
+      "aliases": []
+    },
+    "citroen/saxo": {
+      "name": "ساكسو",
+      "aliases": []
+    },
+    "citroen/xantia": {
+      "name": "إكسانتيا",
+      "aliases": []
+    },
+    "citroen/xsara": {
+      "name": "إكسارا",
+      "aliases": []
+    },
+    "citroen/spacetourer": {
+      "name": "سبيستورر",
+      "aliases": []
+    },
+    "citroen/ds3": {
+      "name": "دي إس 3",
+      "aliases": []
+    },
+    "citroen/ds4": {
+      "name": "دي إس 4",
+      "aliases": []
+    },
+    "citroen/ds5": {
+      "name": "دي إس 5",
+      "aliases": []
+    },
+    "citroen/c-crosser": {
+      "name": "سي كروسر",
+      "aliases": []
+    },
+    "citroen/c-zero": {
+      "name": "سي زيرو",
+      "aliases": []
+    },
+    "citroen/c2": {
+      "name": "سي 2",
+      "aliases": []
+    },
+    "citroen/c6": {
+      "name": "سي 6",
+      "aliases": []
+    },
+    "citroen/c8": {
+      "name": "سي 8",
+      "aliases": []
+    },
+    "citroen/c3-pluriel": {
+      "name": "سي 3 بلوريل",
+      "aliases": []
+    },
+    "citroen/e-c4": {
+      "name": "إي سي 4",
+      "aliases": []
+    },
+    "citroen/e-c4-x": {
+      "name": "إي سي 4 إكس",
+      "aliases": []
+    },
+    "citroen/ax": {
+      "name": "إيه إكس",
+      "aliases": []
+    },
+    "citroen/bx": {
+      "name": "بي إكس",
+      "aliases": []
+    },
+    "citroen/xm": {
+      "name": "إكس إم",
+      "aliases": []
+    },
+    "citroen/zx": {
+      "name": "زد إكس",
+      "aliases": []
+    },
+    "citroen/ami-6": {
+      "name": "آمي 6",
+      "aliases": []
+    },
+    "citroen/dyane": {
+      "name": "دياين",
+      "aliases": []
+    },
+    "fiat/tipo": {
+      "name": "تيبو",
+      "aliases": []
+    },
+    "fiat/500-e": {
+      "name": "500 إي",
+      "aliases": []
+    },
+    "fiat/500-l": {
+      "name": "500 إل",
+      "aliases": []
+    },
+    "fiat/bravo": {
+      "name": "برافو",
+      "aliases": []
+    },
+    "fiat/linea": {
+      "name": "لينيا",
+      "aliases": []
+    },
+    "fiat/grande-punto": {
+      "name": "جراندي بونتو",
+      "aliases": []
+    },
+    "fiat/grande-panda": {
+      "name": "جراندي باندا",
+      "aliases": []
+    },
+    "fiat/stilo": {
+      "name": "ستيلو",
+      "aliases": []
+    },
+    "fiat/brava": {
+      "name": "برافا",
+      "aliases": []
+    },
+    "fiat/uno": {
+      "name": "أونو",
+      "aliases": []
+    },
+    "fiat/strada": {
+      "name": "سترادا",
+      "aliases": []
+    },
+    "fiat/multipla": {
+      "name": "مولتيبلا",
+      "aliases": []
+    },
+    "fiat/seicento": {
+      "name": "تشينكويشنتو",
+      "aliases": []
+    },
+    "fiat/qubo": {
+      "name": "كيوبو",
+      "aliases": []
+    },
+    "fiat/fiorino": {
+      "name": "فيوريينو",
+      "aliases": []
+    },
+    "fiat/freemont": {
+      "name": "فريمونت",
+      "aliases": []
+    },
+    "fiat/albea": {
+      "name": "ألبيا",
+      "aliases": []
+    },
+    "fiat/croma": {
+      "name": "كروما",
+      "aliases": []
+    },
+    "fiat/barchetta": {
+      "name": "باركيتا",
+      "aliases": []
+    },
+    "fiat/coupe": {
+      "name": "كوبيه",
+      "aliases": []
+    },
+    "alfa-romeo/giulia": {
+      "name": "جوليا",
+      "aliases": []
+    },
+    "alfa-romeo/stelvio": {
+      "name": "ستيلفيو",
+      "aliases": []
+    },
+    "alfa-romeo/tonale": {
+      "name": "تونالي",
+      "aliases": []
+    },
+    "alfa-romeo/brera": {
+      "name": "بريرا",
+      "aliases": []
+    },
+    "alfa-romeo/junior": {
+      "name": "جونيور",
+      "aliases": []
+    },
+    "alfa-romeo/spider": {
+      "name": "سبايدر",
+      "aliases": []
+    },
+    "alfa-romeo/gt": {
+      "name": "جي تي",
+      "aliases": []
+    },
+    "alfa-romeo/gtv": {
+      "name": "جي تي في",
+      "aliases": []
+    },
+    "ferrari/california": {
+      "name": "كاليفورنيا",
+      "aliases": []
+    },
+    "ferrari/f430": {
+      "name": "إف 430",
+      "aliases": []
+    },
+    "lotus/elise": {
+      "name": "إليز",
+      "aliases": []
+    },
+    "lotus/esprit": {
+      "name": "إسبريت",
+      "aliases": []
+    },
+    "mini/clubman": {
+      "name": "كلوبمان",
+      "aliases": []
+    },
+    "mini/convertible": {
+      "name": "كونفرتبل",
+      "aliases": []
+    },
+    "mini/jcw": {
+      "name": "جون كوبر ووركس",
+      "aliases": []
+    },
+    "lancia/ypsilon": {
+      "name": "إبسيلون",
+      "aliases": []
+    },
+    "lancia/delta": {
+      "name": "دلتا",
+      "aliases": []
+    },
+    "lancia/thema": {
+      "name": "ثيما",
+      "aliases": []
+    },
+    "lancia/musa": {
+      "name": "موزا",
+      "aliases": []
+    },
+    "polestar/polestar-3": {
+      "name": "بولستار 3",
+      "aliases": []
+    },
+    "polestar/polestar-4": {
+      "name": "بولستار 4",
+      "aliases": []
+    },
+    "lucid/air": {
+      "name": "إير",
+      "aliases": []
+    },
+    "nio/et7": {
+      "name": "إي تي 7",
+      "aliases": []
+    },
+    "xpeng/g6": {
+      "name": "جي 6",
+      "aliases": []
+    },
+    "xpeng/g9": {
+      "name": "جي 9",
+      "aliases": []
+    },
+    "xpeng/p7": {
+      "name": "بي 7",
+      "aliases": []
+    },
+    "xpeng/x9": {
+      "name": "إكس 9",
+      "aliases": []
+    },
+    "zeekr/7gt": {
+      "name": "7 جي تي",
+      "aliases": []
+    },
+    "zeekr/x": {
+      "name": "إكس",
+      "aliases": []
+    },
+    "leapmotor/c10": {
+      "name": "سي 10",
+      "aliases": []
+    },
+    "leapmotor/b10": {
+      "name": "بي 10",
+      "aliases": []
+    },
+    "leapmotor/b05": {
+      "name": "بي 05",
+      "aliases": []
+    },
+    "geely/ex5": {
+      "name": "إي إكس 5",
+      "aliases": []
+    },
+    "geely/e5": {
+      "name": "إي 5",
+      "aliases": []
+    },
+    "geely/e2": {
+      "name": "إي 2",
+      "aliases": []
+    },
+    "ssangyong/tivoli": {
+      "name": "تيفولي",
+      "aliases": []
+    },
+    "ssangyong/rodius": {
+      "name": "روديوس",
+      "aliases": []
+    },
+    "ssangyong/xlv": {
+      "name": "إكس إل في",
+      "aliases": []
+    },
+    "kgm/rexton": {
+      "name": "ريكستون",
+      "aliases": []
+    },
+    "kgm/tivoli": {
+      "name": "تيفولي",
+      "aliases": []
+    },
+    "kgm/torres": {
+      "name": "توريس",
+      "aliases": []
+    },
+    "skoda/epiq": {
+      "name": "إبيك",
+      "aliases": []
+    },
+    "skoda/favorit": {
+      "name": "فافوريت",
+      "aliases": []
+    },
+    "jaecoo/j5": {
+      "name": "جي 5",
+      "aliases": []
+    },
+    "great-wall/tank-500": {
+      "name": "تانك 500",
+      "aliases": []
+    },
+    "haval/h2": {
+      "name": "إتش 2",
+      "aliases": []
+    },
+    "mercedes-benz/eqb": {
+      "name": "إي كيو بي",
+      "aliases": []
+    },
+    "mercedes-benz/eqc": {
+      "name": "إي كيو سي",
+      "aliases": []
+    },
+    "mercedes-benz/eqv": {
+      "name": "إي كيو في",
+      "aliases": []
+    },
+    "mercedes-benz/cl": {
+      "name": "سي إل",
+      "aliases": []
+    },
+    "mercedes-benz/clc": {
+      "name": "سي إل سي",
+      "aliases": []
+    },
+    "mercedes-benz/cle": {
+      "name": "سي إل إي",
+      "aliases": []
+    },
+    "mercedes-benz/clk": {
+      "name": "سي إل كيه",
+      "aliases": []
+    },
+    "mercedes-benz/gl": {
+      "name": "جي إل",
+      "aliases": []
+    },
+    "mercedes-benz/r-class": {
+      "name": "آر كلاس",
+      "aliases": []
+    },
+    "mercedes-benz/slc": {
+      "name": "إس إل سي",
+      "aliases": []
+    },
+    "jaguar/e-type": {
+      "name": "إي تايب",
+      "aliases": []
+    },
+    "jaguar/xk": {
+      "name": "إكس كيه",
+      "aliases": []
+    },
+    "jaguar/xk8": {
+      "name": "إكس كيه 8",
+      "aliases": []
+    },
+    "jaguar/xkr": {
+      "name": "إكس كيه آر",
+      "aliases": []
+    },
+    "jaguar/xj6": {
+      "name": "إكس جي 6",
+      "aliases": []
+    },
+    "jaguar/xj8": {
+      "name": "إكس جي 8",
+      "aliases": []
+    },
+    "land-rover/lr3": {
+      "name": "إل آر 3",
+      "aliases": []
+    },
+    "land-rover/lr4": {
+      "name": "إل آر 4",
+      "aliases": []
+    },
+    "volkswagen/atlas": {
+      "name": "أطلس",
+      "aliases": []
+    },
+    "volkswagen/corrado": {
+      "name": "كورادو",
+      "aliases": []
+    },
+    "volkswagen/lupo": {
+      "name": "لوبو",
+      "aliases": []
+    },
+    "volkswagen/phaeton": {
+      "name": "فايتون",
+      "aliases": []
+    },
+    "volkswagen/vento": {
+      "name": "فينتو",
+      "aliases": []
+    },
+    "volkswagen/e-golf": {
+      "name": "إي جولف",
+      "aliases": []
+    },
+    "volkswagen/id-buzz": {
+      "name": "آي دي باز",
+      "aliases": []
+    },
+    "volkswagen/tiguan-allspace": {
+      "name": "تيجوان أولسبيس",
+      "aliases": []
+    },
+    "volkswagen/california": {
+      "name": "كاليفورنيا",
+      "aliases": []
+    },
+    "mg/mga": {
+      "name": "إم جي إيه",
+      "aliases": []
+    },
+    "mg/mgb": {
+      "name": "إم جي بي",
+      "aliases": []
+    },
+    "mg/midget": {
+      "name": "ميدجت",
+      "aliases": []
+    },
+    "mg/zt": {
+      "name": "زد تي",
+      "aliases": []
+    },
+    "mg/gs": {
+      "name": "جي إس",
+      "aliases": []
+    },
+    "mg/ehs": {
+      "name": "إي إتش إس",
+      "aliases": []
+    },
+    "mg/im6": {
+      "name": "آي إم 6",
+      "aliases": []
+    },
+    "vauxhall/cascada": {
+      "name": "كاسكادا",
+      "aliases": []
+    },
+    "vauxhall/cavalier": {
+      "name": "كافالير",
+      "aliases": []
+    },
+    "vauxhall/agila": {
+      "name": "أجيلا",
+      "aliases": []
+    },
+    "vauxhall/chevette": {
+      "name": "شيفيت",
+      "aliases": []
+    },
+    "vauxhall/viva": {
+      "name": "فيفا",
+      "aliases": []
+    },
+    "peugeot/rcz": {
+      "name": "آر سي زد",
+      "aliases": []
+    },
+    "peugeot/bipper": {
+      "name": "بيبر",
+      "aliases": []
+    },
+    "peugeot/ion": {
+      "name": "أيون",
+      "aliases": []
+    },
+    "peugeot/e-2008": {
+      "name": "إي 2008",
+      "aliases": []
+    },
+    "isuzu/trooper": {
+      "name": "ترووبر",
+      "aliases": []
+    },
+    "baic/x55": {
+      "name": "إكس 55",
+      "aliases": []
+    },
+    "baic/x35": {
+      "name": "إكس 35",
+      "aliases": []
+    },
+    "baic/x7": {
+      "name": "إكس 7",
+      "aliases": []
+    },
+    "denza/d9": {
+      "name": "دي 9",
+      "aliases": []
+    },
+    "denza/b8": {
+      "name": "بي 8",
+      "aliases": []
+    },
+    "deepal/s07": {
+      "name": "إس 07",
+      "aliases": []
+    },
+    "deepal/l07": {
+      "name": "إل 07",
+      "aliases": []
+    },
+    "deepal/s05": {
+      "name": "إس 05",
+      "aliases": []
+    },
+    "dfsk/e5": {
+      "name": "إي 5",
+      "aliases": []
+    },
+    "dfsk/seres-3": {
+      "name": "سيريس 3",
+      "aliases": []
+    },
+    "dongfeng/box": {
+      "name": "بوكس",
+      "aliases": []
+    },
+    "omoda/omoda-9": {
+      "name": "أومودا 9",
+      "aliases": []
+    },
+    "omoda/omoda-e5": {
+      "name": "أومودا إي 5",
+      "aliases": []
+    },
+    "neta/x": {
+      "name": "إكس",
+      "aliases": []
+    },
+    "neta/v": {
+      "name": "في",
+      "aliases": []
+    },
+    "aion/y-plus": {
+      "name": "واي بلس",
+      "aliases": []
+    },
+    "aion/ut": {
+      "name": "يو تي",
+      "aliases": []
+    },
+    "abarth/spider": {
+      "name": "سبايدر",
+      "aliases": []
+    },
+    "abarth/600e": {
+      "name": "600 إي",
+      "aliases": []
+    },
+    "byd/seal-5": {
+      "name": "سيل 5",
+      "aliases": []
+    },
+    "byd/seal-6": {
+      "name": "سيل 6",
+      "aliases": []
+    },
+    "byd/sealion-5": {
+      "name": "سي لاين 5",
+      "aliases": []
+    },
+    "byd/sealion": {
+      "name": "سي لاين",
+      "aliases": []
+    },
+    "byd/dolphin-g": {
+      "name": "دولفين جي",
+      "aliases": []
+    },
+    "byd/tang-ev": {
+      "name": "تانج إي في",
+      "aliases": []
+    },
+    "byd/yuan-plus": {
+      "name": "يوان بلس",
+      "aliases": []
+    },
+    "byd/yuan-pro": {
+      "name": "يوان برو",
+      "aliases": []
+    },
+    "byd/song-pro": {
+      "name": "سونج برو",
+      "aliases": []
+    },
+    "chery/tiggo": {
+      "name": "تيجو",
+      "aliases": []
+    },
+    "chery/tiggo-2": {
+      "name": "تيجو 2",
+      "aliases": []
+    },
+    "chery/tiggo-9": {
+      "name": "تيجو 9",
+      "aliases": []
+    },
+    "lada/niva": {
+      "name": "نيفا",
+      "aliases": []
+    },
+    "lada/vesta": {
+      "name": "فيستا",
+      "aliases": []
     }
   }
 }

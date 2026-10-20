@@ -50,6 +50,11 @@ export function validateData({ makes, models, locales }) {
     makeIds.add(make.id);
   }
 
+  const usedMakes = new Set(models.map((m) => m.makeId));
+  for (const make of makes) {
+    if (!usedMakes.has(make.id)) errors.push(`make ${make.id} has no models`);
+  }
+
   const modelIds = new Set();
   const namesPerMake = new Map();
   for (const model of models) {

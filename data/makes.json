@@ -187,5 +187,267 @@
     "id": "byd",
     "name": "BYD",
     "aliases": []
+  },
+  {
+    "id": "abarth",
+    "name": "Abarth",
+    "aliases": []
+  },
+  {
+    "id": "acura",
+    "name": "Acura",
+    "aliases": []
+  },
+  {
+    "id": "aion",
+    "name": "Aion",
+    "aliases": []
+  },
+  {
+    "id": "alfa-romeo",
+    "name": "Alfa Romeo",
+    "aliases": []
+  },
+  {
+    "id": "alpina",
+    "name": "Alpina",
+    "aliases": []
+  },
+  {
+    "id": "aston-martin",
+    "name": "Aston Martin",
+    "aliases": []
+  },
+  {
+    "id": "baic",
+    "name": "BAIC",
+    "aliases": []
+  },
+  {
+    "id": "bentley",
+    "name": "Bentley",
+    "aliases": []
+  },
+  {
+    "id": "buick",
+    "name": "Buick",
+    "aliases": []
+  },
+  {
+    "id": "citroen",
+    "name": "Citroën",
+    "aliases": []
+  },
+  {
+    "id": "cupra",
+    "name": "Cupra",
+    "aliases": []
+  },
+  {
+    "id": "dacia",
+    "name": "Dacia",
+    "aliases": []
+  },
+  {
+    "id": "daihatsu",
+    "name": "Daihatsu",
+    "aliases": []
+  },
+  {
+    "id": "deepal",
+    "name": "Deepal",
+    "aliases": []
+  },
+  {
+    "id": "denza",
+    "name": "Denza",
+    "aliases": []
+  },
+  {
+    "id": "dfsk",
+    "name": "DFSK",
+    "aliases": []
+  },
+  {
+    "id": "dongfeng",
+    "name": "Dongfeng",
+    "aliases": []
+  },
+  {
+    "id": "ds",
+    "name": "DS",
+    "aliases": []
+  },
+  {
+    "id": "ebro",
+    "name": "EBRO",
+    "aliases": []
+  },
+  {
+    "id": "ferrari",
+    "name": "Ferrari",
+    "aliases": []
+  },
+  {
+    "id": "fiat",
+    "name": "Fiat",
+    "aliases": []
+  },
+  {
+    "id": "gac",
+    "name": "GAC",
+    "aliases": []
+  },
+  {
+    "id": "great-wall",
+    "name": "Great Wall",
+    "aliases": [
+      "GWM"
+    ]
+  },
+  {
+    "id": "isuzu",
+    "name": "Isuzu",
+    "aliases": []
+  },
+  {
+    "id": "jaecoo",
+    "name": "Jaecoo",
+    "aliases": []
+  },
+  {
+    "id": "jetour",
+    "name": "Jetour",
+    "aliases": []
+  },
+  {
+    "id": "kgm",
+    "name": "KGM",
+    "aliases": []
+  },
+  {
+    "id": "lada",
+    "name": "Lada",
+    "aliases": []
+  },
+  {
+    "id": "lamborghini",
+    "name": "Lamborghini",
+    "aliases": []
+  },
+  {
+    "id": "lancia",
+    "name": "Lancia",
+    "aliases": []
+  },
+  {
+    "id": "leapmotor",
+    "name": "Leapmotor",
+    "aliases": []
+  },
+  {
+    "id": "lincoln",
+    "name": "Lincoln",
+    "aliases": []
+  },
+  {
+    "id": "lotus",
+    "name": "Lotus",
+    "aliases": []
+  },
+  {
+    "id": "lucid",
+    "name": "Lucid",
+    "aliases": []
+  },
+  {
+    "id": "lynk-co",
+    "name": "Lynk & Co",
+    "aliases": []
+  },
+  {
+    "id": "maserati",
+    "name": "Maserati",
+    "aliases": []
+  },
+  {
+    "id": "maxus",
+    "name": "Maxus",
+    "aliases": []
+  },
+  {
+    "id": "mini",
+    "name": "Mini",
+    "aliases": []
+  },
+  {
+    "id": "neta",
+    "name": "Neta",
+    "aliases": []
+  },
+  {
+    "id": "nio",
+    "name": "Nio",
+    "aliases": []
+  },
+  {
+    "id": "omoda",
+    "name": "Omoda",
+    "aliases": []
+  },
+  {
+    "id": "opel",
+    "name": "Opel",
+    "aliases": []
+  },
+  {
+    "id": "ora",
+    "name": "Ora",
+    "aliases": []
+  },
+  {
+    "id": "perodua",
+    "name": "Perodua",
+    "aliases": []
+  },
+  {
+    "id": "polestar",
+    "name": "Polestar",
+    "aliases": []
+  },
+  {
+    "id": "proton",
+    "name": "Proton",
+    "aliases": []
+  },
+  {
+    "id": "seat",
+    "name": "SEAT",
+    "aliases": []
+  },
+  {
+    "id": "smart",
+    "name": "Smart",
+    "aliases": []
+  },
+  {
+    "id": "ssangyong",
+    "name": "SsangYong",
+    "aliases": []
+  },
+  {
+    "id": "vauxhall",
+    "name": "Vauxhall",
+    "aliases": []
+  },
+  {
+    "id": "xpeng",
+    "name": "XPeng",
+    "aliases": []
+  },
+  {
+    "id": "zeekr",
+    "name": "Zeekr",
+    "aliases": []
   }
 ]

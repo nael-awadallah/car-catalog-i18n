@@ -23,6 +23,11 @@ Use the internationally recognized brand/model spelling (`Land Cruiser`, `X-Trai
 - **Series naming:** BMW/Mercedes families are listed as the series/class
   (`3 Series`, `C-Class`); distinct product lines such as `X5`, `GLC` are models.
 
+## Data quality
+
+Models are filtered by popularity and cleaned of obvious trims and malformed rows, but
+not audited one by one. Report mistakes as issues; fixes that keep IDs are patch releases.
+
 ## Spelling and regional names
 
 Never create a model just because spelling differs; add an alias. Merge regional

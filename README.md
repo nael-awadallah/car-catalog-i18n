@@ -1,7 +1,7 @@
 # car-catalog-i18n
 
 [![npm](https://img.shields.io/npm/v/car-catalog-i18n)](https://www.npmjs.com/package/car-catalog-i18n)
-[![license](https://img.shields.io/badge/license-MIT%20%2B%20CC0-blue)](LICENSE)
+[![license](https://img.shields.io/badge/license-MIT%20%2B%20CC%20BY%204.0-blue)](LICENSE)
 
 Linked car makes and models with multilingual names and search helpers.
 Framework-independent, zero runtime dependencies, works in Node.js and browsers.
@@ -9,9 +9,11 @@ English canonical names, Arabic translations included, other languages welcome.
 
 [العربية](README.ar.md)
 
-> **Status: early release (0.x).** The seed dataset is small and the Arabic translations have
-> **not yet been reviewed by a fluent reviewer**. See [coverage](docs/COVERAGE.md)
-> for exactly what is included. This package does not claim complete coverage.
+> **Status: early release (0.x).** Coverage is partial: see [docs/COVERAGE.md](docs/COVERAGE.md) for exact
+> numbers. Arabic names cover all makes and the most popular models; the rest fall back
+> to the canonical name. The Arabic data has been checked for consistency but not yet by
+> an independent native speaker, and corrections are welcome. This package does not claim
+> complete coverage.
 
 ## Install
 
@@ -88,13 +90,13 @@ IDs are stable: makes look like `toyota`, models like `toyota/land-cruiser`.
 ## Bundle size
 
 Locales are loaded explicitly, so unused languages are never bundled. The
-catalog data is embedded in the main entry. Measured for 0.1.0 (run
+catalog data is embedded in the main entry. Measured for 0.2.0 (run
 `npm run coverage` to reproduce):
 
 | File | Raw | Gzip |
 |---|---|---|
-| `dist/index.js` (catalog + data) | 38.5 kB | 6.1 kB |
-| `dist/locales/ar.js` | 46.2 kB | 5.9 kB |
+| `dist/index.js` (catalog + data) | 122.6 kB | 16.3 kB |
+| `dist/locales/ar.js` | 83.4 kB | 13.4 kB |
 
 Size grows with coverage.
 
@@ -114,6 +116,8 @@ Issues and pull requests: <https://github.com/nael-awadallah/car-catalog-i18n>.
 
 ## Licenses
 
-Code: MIT ([LICENSE](LICENSE)). Data: CC0 for the original seed
-([DATA-LICENSE](DATA-LICENSE)); third-party sources are listed in
+Code: MIT ([LICENSE](LICENSE)). Data: CC BY 4.0 ([DATA-LICENSE](DATA-LICENSE)).
+
+**Attribution:** if your app shows this data publicly, credit
+*"Vehicle data by [VehiclesDB](https://vehiclesdb.com)"*. Required notices are in
 [ATTRIBUTION.md](ATTRIBUTION.md). Make and model names are trademarks of their owners.

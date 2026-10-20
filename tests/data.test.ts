@@ -29,6 +29,11 @@ describe("catalog data", () => {
     expect(errors).toContain("unknown model id a/none");
   });
 
+  it("flags makes without models", () => {
+    const errors = validateData({ makes: [{ id: "a", name: "A", aliases: [] }], models: [], locales: {} });
+    expect(errors).toContain("make a has no models");
+  });
+
   it("rejects blank names and aliases", () => {
     const blank = {
       makes: [{ id: "a", name: "  ", aliases: [""] }],

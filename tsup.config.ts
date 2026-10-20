@@ -10,4 +10,7 @@ export default defineConfig({
   clean: true,
   target: "es2020",
   treeshake: true,
+  esbuildOptions(options) {
+    options.charset = "utf8";
+  },
 });

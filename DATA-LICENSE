@@ -1,16 +1,10 @@
 Data license (data/ and locales/)
 
-The catalog data in this repository (data/makes.json, data/models.json,
-locales/*.json) was compiled by the project's contributors. It is dedicated
-to the public domain under CC0 1.0 Universal:
-
-    https://creativecommons.org/publicdomain/zero/1.0/legalcode
-
-Third-party data: if data from an external source is imported, that source
-and its license are recorded in docs/sources.json and ATTRIBUTION.md, and the
-imported records remain subject to the source's license terms (for example,
-CC BY 4.0 requires attribution). This file must be updated whenever such an
-import is merged.
+The data files (data/ and locales/) are distributed under Creative Commons
+Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/legalcode).
+Reuse requires attribution as given in ATTRIBUTION.md
+("Vehicle data by VehiclesDB" with a link to https://vehiclesdb.com), and the
+upstream register notices in ATTRIBUTION.md apply.
 
 Names of vehicle makes and models may be trademarks of their respective
 owners. This project is not affiliated with or endorsed by any manufacturer.

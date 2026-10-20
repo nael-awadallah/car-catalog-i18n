@@ -1,6 +1,6 @@
 {
   "name": "car-catalog-i18n",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Framework-independent car makes and models with linked IDs, multilingual names (English, Arabic) and search helpers.",
   "keywords": [
     "car",
@@ -17,7 +17,7 @@
     "name": "Nael Awadallah",
     "url": "https://github.com/nael-awadallah"
   },
-  "license": "(MIT AND CC0-1.0)",
+  "license": "(MIT AND CC-BY-4.0)",
   "homepage": "https://github.com/nael-awadallah/car-catalog-i18n#readme",
   "repository": {
     "type": "git",

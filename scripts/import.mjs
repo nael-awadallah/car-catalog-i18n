@@ -43,8 +43,9 @@ const pairs =
           throw new Error(`Unknown --format ${args.format}`);
         })();
 
-const slug = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
-const key = (s) => s.toLowerCase().replace(/[^a-z0-9]+/g, "");
+const fold = (s) => s.normalize("NFKD").replace(/\p{M}/gu, "").toLowerCase();
+const slug = (s) => fold(s).replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "");
+const key = (s) => fold(s).replace(/[^a-z0-9]+/g, "");
 const clean = (s) => String(s ?? "").trim().replace(/\s+/g, " ");
 
 const data = loadData();
