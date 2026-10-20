@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/car-catalog-i18n/schemas/models.schema.json",
+  "title": "Models",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": ["id", "makeId", "name", "aliases"],
+    "properties": {
+      "id": {
+        "type": "string",
+        "pattern": "^[a-z0-9]+(-[a-z0-9]+)*/[a-z0-9]+(-[a-z0-9]+)*$"
+      },
+      "makeId": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+      "name": { "type": "string", "pattern": "\\S" },
+      "aliases": {
+        "type": "array",
+        "items": { "type": "string", "pattern": "\\S" }
+      }
+    }
+  }
+}

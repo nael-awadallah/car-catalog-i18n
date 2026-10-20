@@ -1,0 +1,92 @@
+{
+  "name": "car-catalog-i18n",
+  "version": "0.1.0",
+  "description": "Framework-independent car makes and models with linked IDs, multilingual names (English, Arabic) and search helpers.",
+  "keywords": [
+    "car",
+    "cars",
+    "vehicle",
+    "make",
+    "model",
+    "catalog",
+    "i18n",
+    "arabic",
+    "search"
+  ],
+  "author": {
+    "name": "Nael Awadallah",
+    "url": "https://github.com/nael-awadallah"
+  },
+  "license": "(MIT AND CC0-1.0)",
+  "homepage": "https://github.com/nael-awadallah/car-catalog-i18n#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nael-awadallah/car-catalog-i18n.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nael-awadallah/car-catalog-i18n/issues"
+  },
+  "type": "module",
+  "sideEffects": false,
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "import": {
+        "types": "./dist/index.d.ts",
+        "default": "./dist/index.js"
+      },
+      "require": {
+        "types": "./dist/index.d.cts",
+        "default": "./dist/index.cjs"
+      }
+    },
+    "./locales/ar": {
+      "import": {
+        "types": "./dist/locales/ar.d.ts",
+        "default": "./dist/locales/ar.js"
+      },
+      "require": {
+        "types": "./dist/locales/ar.d.cts",
+        "default": "./dist/locales/ar.cjs"
+      }
+    },
+    "./locales/ar.json": "./locales/ar.json",
+    "./data/makes.json": "./data/makes.json",
+    "./data/models.json": "./data/models.json",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "dist",
+    "data",
+    "locales",
+    "schemas",
+    "README.md",
+    "README.ar.md",
+    "CHANGELOG.md",
+    "LICENSE",
+    "DATA-LICENSE",
+    "ATTRIBUTION.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "build": "tsup",
+    "typecheck": "tsc --noEmit",
+    "validate": "node scripts/validate.mjs",
+    "test": "vitest run",
+    "coverage": "node scripts/coverage.mjs",
+    "smoke": "node scripts/smoke.mjs",
+    "check": "npm run typecheck && npm run validate && npm test && npm run build && npm run smoke",
+    "prepack": "npm run build"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "ajv": "^8.20.0",
+    "tsup": "^8.5.1",
+    "typescript": "~5.9",
+    "vitest": "^5.0.5"
+  }
+}

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "toyota",
+    "name": "Toyota",
+    "aliases": []
+  },
+  {
+    "id": "nissan",
+    "name": "Nissan",
+    "aliases": []
+  },
+  {
+    "id": "honda",
+    "name": "Honda",
+    "aliases": []
+  },
+  {
+    "id": "hyundai",
+    "name": "Hyundai",
+    "aliases": []
+  },
+  {
+    "id": "kia",
+    "name": "Kia",
+    "aliases": []
+  },
+  {
+    "id": "mazda",
+    "name": "Mazda",
+    "aliases": []
+  },
+  {
+    "id": "mitsubishi",
+    "name": "Mitsubishi",
+    "aliases": []
+  },
+  {
+    "id": "suzuki",
+    "name": "Suzuki",
+    "aliases": []
+  },
+  {
+    "id": "subaru",
+    "name": "Subaru",
+    "aliases": []
+  },
+  {
+    "id": "lexus",
+    "name": "Lexus",
+    "aliases": []
+  },
+  {
+    "id": "infiniti",
+    "name": "Infiniti",
+    "aliases": []
+  },
+  {
+    "id": "genesis",
+    "name": "Genesis",
+    "aliases": []
+  },
+  {
+    "id": "ford",
+    "name": "Ford",
+    "aliases": []
+  },
+  {
+    "id": "chevrolet",
+    "name": "Chevrolet",
+    "aliases": []
+  },
+  {
+    "id": "gmc",
+    "name": "GMC",
+    "aliases": []
+  },
+  {
+    "id": "dodge",
+    "name": "Dodge",
+    "aliases": []
+  },
+  {
+    "id": "jeep",
+    "name": "Jeep",
+    "aliases": []
+  },
+  {
+    "id": "chrysler",
+    "name": "Chrysler",
+    "aliases": []
+  },
+  {
+    "id": "cadillac",
+    "name": "Cadillac",
+    "aliases": []
+  },
+  {
+    "id": "tesla",
+    "name": "Tesla",
+    "aliases": []
+  },
+  {
+    "id": "mercedes-benz",
+    "name": "Mercedes-Benz",
+    "aliases": [
+      "Mercedes",
+      "Benz"
+    ]
+  },
+  {
+    "id": "bmw",
+    "name": "BMW",
+    "aliases": []
+  },
+  {
+    "id": "audi",
+    "name": "Audi",
+    "aliases": []
+  },
+  {
+    "id": "volkswagen",
+    "name": "Volkswagen",
+    "aliases": [
+      "VW"
+    ]
+  },
+  {
+    "id": "porsche",
+    "name": "Porsche",
+    "aliases": []
+  },
+  {
+    "id": "volvo",
+    "name": "Volvo",
+    "aliases": []
+  },
+  {
+    "id": "land-rover",
+    "name": "Land Rover",
+    "aliases": []
+  },
+  {
+    "id": "jaguar",
+    "name": "Jaguar",
+    "aliases": []
+  },
+  {
+    "id": "peugeot",
+    "name": "Peugeot",
+    "aliases": []
+  },
+  {
+    "id": "renault",
+    "name": "Renault",
+    "aliases": []
+  },
+  {
+    "id": "skoda",
+    "name": "Skoda",
+    "aliases": []
+  },
+  {
+    "id": "mg",
+    "name": "MG",
+    "aliases": [
+      "Morris Garages"
+    ]
+  },
+  {
+    "id": "geely",
+    "name": "Geely",
+    "aliases": []
+  },
+  {
+    "id": "chery",
+    "name": "Chery",
+    "aliases": []
+  },
+  {
+    "id": "haval",
+    "name": "Haval",
+    "aliases": [
+      "Great Wall Haval"
+    ]
+  },
+  {
+    "id": "byd",
+    "name": "BYD",
+    "aliases": []
+  }
+]

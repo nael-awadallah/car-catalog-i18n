@@ -1,0 +1,10 @@
+node_modules
+dist
+*.tgz
+
+# Local tooling / assistant files (kept out of the repository)
+.claude/
+CLAUDE.md
+.mcp.json
+graphify-out/
+.vercel
