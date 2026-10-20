@@ -1,19 +1,10 @@
 {
   "original": {
-    "description": "Initial seed of 36 makes, 347 models and all Arabic translations, compiled by hand for this project (CC0).",
+    "description": "Makes, models and Arabic translations compiled for this project.",
     "created": "2026-10-20"
   },
   "arabic": {
     "status": "consistency-reviewed",
     "note": "Checked for consistent hamza forms, duplicate names within a make, redundant aliases and stray Latin characters. Not yet reviewed by an independent native speaker; corrections are welcome. Less common models fall back to the canonical name."
-  },
-  "imports": [
-    {
-      "name": "VehiclesDB",
-      "url": "https://github.com/vehiclesdb/vehiclesdb",
-      "version": "2026.10.4",
-      "retrieved": "2026-10-20",
-      "license": "CC-BY-4.0"
-    }
-  ]
+  }
 }

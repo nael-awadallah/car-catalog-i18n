@@ -100,7 +100,7 @@ if (args.write) {
   write("data/models.json", data.models);
   const sourcesPath = join(ROOT, "docs", "sources.json");
   const sources = JSON.parse(readFileSync(sourcesPath, "utf8"));
-  sources.imports.push({
+  (sources.imports ??= []).push({
     name: args.name,
     url: args.url,
     version: args.version,
