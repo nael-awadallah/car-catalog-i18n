@@ -84,6 +84,70 @@ export function validateData({ makes, models, locales }) {
     }
   }
 
+  errors.push(...findAliasCollisions({ makes, models, locales }));
+  return errors;
+}
+
+// Mirrors normalizeSearchText in src/normalize.ts (kept dependency-free for scripts).
+const normalizeKey = (value) =>
+  value
+    .normalize("NFKD")
+    .replace(/\p{M}/gu, "")
+    .replace(/ـ/g, "")
+    .replace(/[آأإٱ]/g, "ا")
+    .toLowerCase()
+    .replace(/[-_‐-―]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+
+/**
+ * Collisions that exist today and cannot be fixed without removing public IDs
+ * (duplicate regional records) or changing correct names (إ/آ fold to ا when
+ * searching). New collisions are errors; do not add to this list lightly.
+ */
+const KNOWN_COLLISIONS = new Set([
+  "honda/fit|honda/jazz",
+  "hyundai/azera|hyundai/grandeur",
+  "mitsubishi/l200|mitsubishi/triton",
+  "subaru/crosstrek|subaru/xv",
+  "ford/escape|ford/kuga",
+  "chrysler/300|chrysler/300c",
+  "volkswagen/atlas|volkswagen/teramont",
+  "byd/atto-3|byd/yuan-plus",
+  "lexus/es|lexus/is",
+  "jaguar/e-pace|jaguar/i-pace",
+]);
+
+/**
+ * A search key (name or alias after normalization) that maps to two different
+ * makes, or two different models of one make, makes exact-match ranking ambiguous.
+ */
+function findAliasCollisions({ makes, models, locales }) {
+  const errors = [];
+  const collect = (records, scope, label) => {
+    const seen = new Map();
+    for (const record of records) {
+      const names = [record.name, ...record.aliases];
+      for (const [code, locale] of Object.entries(locales)) {
+        const tr = (scope === "make" ? locale.makes : locale.models)[record.id];
+        if (tr) names.push(tr.name, ...(tr.aliases ?? []));
+      }
+      for (const key of new Set(names.map(normalizeKey).filter(Boolean))) {
+        const first = seen.get(key);
+        if (first && first !== record.id) {
+          if (KNOWN_COLLISIONS.has([first, record.id].sort().join("|"))) continue;
+          errors.push(`${label}: "${key}" is used by both ${first} and ${record.id}`);
+        } else seen.set(key, record.id);
+      }
+    }
+  };
+  collect(makes, "make", "make search key");
+  const byMake = new Map();
+  for (const model of models) {
+    if (!byMake.has(model.makeId)) byMake.set(model.makeId, []);
+    byMake.get(model.makeId).push(model);
+  }
+  for (const [makeId, list] of byMake) collect(list, "model", `model search key in ${makeId}`);
   return errors;
 }
 

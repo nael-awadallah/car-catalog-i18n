@@ -57,3 +57,16 @@ The dataset is versioned with the package.
 - **Patch:** corrections and translations that keep meaning and IDs.
 - **Minor:** new makes, models, languages or backward-compatible functions.
 - **Major:** incompatible API/schema changes or removal of public IDs.
+
+## ID stability
+
+- A make or model ID is permanent within a major version: it is never renamed,
+  reused for a different vehicle or removed. `tests/ids.snapshot.json` records every
+  published ID and the test suite fails if one disappears.
+- A wrong or duplicate record is not deleted. Keep its ID, and move its names to the
+  surviving record as aliases (removal is a major change).
+- Adding IDs is a minor change. After adding records, run `npm run ids:update`
+  and commit the refreshed snapshot.
+- Search keys (names and aliases after normalization) must not collide inside a make,
+  or among makes. `npm run validate` enforces this; the few historical exceptions are
+  listed in `scripts/lib/data.mjs`.

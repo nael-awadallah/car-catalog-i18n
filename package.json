@@ -79,6 +79,7 @@
     "test": "vitest run",
     "coverage": "node scripts/coverage.mjs",
     "smoke": "node scripts/smoke.mjs",
+    "ids:update": "node scripts/snapshot-ids.mjs",
     "check": "npm run typecheck && npm run validate && npm test && npm run build && npm run smoke",
     "prepack": "npm run build"
   },

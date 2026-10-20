@@ -49,6 +49,8 @@ export interface Catalog {
   readonly locale: string | undefined;
   getMakes(): Make[];
   getModels(makeId: string): Model[];
+  /** Every model of every make, sorted by display name. */
+  getAllModels(): Model[];
   getMake(id: string): Make | undefined;
   getModel(id: string): Model | undefined;
   searchMakes(query: string, options?: SearchOptions): Make[];

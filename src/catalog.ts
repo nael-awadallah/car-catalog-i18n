@@ -146,6 +146,7 @@ export function createCatalog(options: CatalogOptions = {}): Catalog {
     getMakes: () => makeEntries.map((e) => e.item),
     getModels: (makeId: string) =>
       (modelEntriesByMake.get(makeId) ?? []).map((e) => e.item),
+    getAllModels: () => modelEntries.map((e) => e.item),
     getMake: (id: string) => makeById.get(id),
     getModel: (id: string) => modelById.get(id),
     searchMakes: (query: string, opts: SearchOptions = {}) =>

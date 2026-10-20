@@ -60,3 +60,28 @@ describe("catalog data", () => {
     expect(offenders).toEqual([]);
   });
 });
+
+describe("id stability", () => {
+  it("keeps every previously published make and model id", async () => {
+    const snapshot = (await import("./ids.snapshot.json")).default as {
+      makes: string[];
+      models: string[];
+    };
+    const makes = new Set(data.makes.map((m: any) => m.id));
+    const models = new Set(data.models.map((m: any) => m.id));
+    expect(snapshot.makes.filter((id) => !makes.has(id))).toEqual([]);
+    expect(snapshot.models.filter((id) => !models.has(id))).toEqual([]);
+  });
+
+  it("detects colliding search keys", () => {
+    const errors = validateData({
+      makes: [{ id: "a", name: "A", aliases: [] }],
+      models: [
+        { id: "a/x", makeId: "a", name: "Xr", aliases: [] },
+        { id: "a/y", makeId: "a", name: "Y", aliases: ["xr"] },
+      ],
+      locales: {},
+    }).join("\n");
+    expect(errors).toContain('"xr" is used by both a/x and a/y');
+  });
+});

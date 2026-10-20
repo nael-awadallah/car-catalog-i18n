@@ -3,6 +3,12 @@
 All notable changes are documented here. The dataset is versioned together with
 the package; see [docs/data-policy.md](docs/data-policy.md#versioning).
 
+## Unreleased
+
+- Added `getAllModels()`.
+- Validation now rejects colliding search keys; ID snapshot test guards against removed IDs
+  (see [ID stability](docs/data-policy.md#id-stability)).
+
 ## 0.2.0 — 2026-10-20
 
 - Catalog expanded to 88 makes and 1260 models. See [ATTRIBUTION.md](ATTRIBUTION.md) for required credit.

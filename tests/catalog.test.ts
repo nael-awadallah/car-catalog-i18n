@@ -181,3 +181,23 @@ describe("independence", () => {
     expect(english.searchMakes("تويو")).toEqual([]);
   });
 });
+
+describe("ranking table", () => {
+  const ar_ = createCatalog({ locale: "ar", translations: ar });
+  const cases: [string, string][] = [
+    ["camry", "toyota/camry"],
+    ["كامري", "toyota/camry"],
+    ["كَامْرِي", "toyota/camry"],
+    ["land cruiser", "toyota/land-cruiser"],
+    ["land-cruiser", "toyota/land-cruiser"],
+    ["تيجو 7", "chery/tiggo-7"],
+  ];
+  it.each(cases)("puts %s first", (query, id) => {
+    expect(ar_.searchModels(query)[0]?.id).toBe(id);
+  });
+
+  it("lists all models via getAllModels", () => {
+    const all = ar_.getAllModels();
+    expect(all.length).toBe(ar_.getMakes().flatMap((m) => ar_.getModels(m.id)).length);
+  });
+});

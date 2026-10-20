@@ -61,6 +61,7 @@ const { ar } = require("car-catalog-i18n/locales/ar"); // or .default
 | `createCatalog({ locale?, translations? })` | Independent instance; no global language state, safe for concurrent server requests |
 | `getMakes()` | All makes with localized names |
 | `getModels(makeId)` | Models of a make; `[]` for an unknown make |
+| `getAllModels()` | Every model of every make |
 | `getMake(id)` / `getModel(id)` | The record, or `undefined` |
 | `searchMakes(query, { limit? })` | Ranked search |
 | `searchModels(query, { makeId?, limit? })` | Ranked search, optionally within one make |
